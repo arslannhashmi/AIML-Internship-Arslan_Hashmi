@@ -1,0 +1,3 @@
+Employee_ID,Full_Name,First_Name,Last_Name,Age,Department,Region,Status,Join_Date,Salary,Email,Phone,Performance_Score,Performance_Numeric,Remote_Work
+EMP1000,Bob Davis,Bob,Davis,25.0,DevOps,California,Active,2021-04-02,59767.65,bob.davis@example.com,1651623197,Average,2,True
+# ... (full cleaned data available in local artifacts; truncated for API in this session — re-generate from notebook if needed)
