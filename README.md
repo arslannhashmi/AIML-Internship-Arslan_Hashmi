@@ -10,6 +10,13 @@ This repository will contain all my work throughout the AI/ML Internship Program
 - Projects and code implementations
 - Learning progress and notes
 
+### Assignments
+
+#### Assignment 1: Exploratory Data Analysis of the New York City Airbnb Listings Dataset
+- **Notebook**: [Assignment1_EDA_ArslanHashmi.ipynb](Assignment1_EDA_ArslanHashmi.ipynb)
+- Comprehensive EDA including data cleaning, feature engineering, univariate/multivariate visualizations, key insights and recommendations for hosts.
+- Dataset: New York City Airbnb Open Data (2019)
+
 ### My Focus Areas
 - Python for AI/ML development
 - Building intelligent AI agents and agentic workflows
@@ -21,5 +28,5 @@ Feel free to explore the repositories and follow my learning journey!
 
 ---
 
-*Repository created for AI/ML Internship Program – Week 1*  
-*Last updated: July 16, 2026*
+*Repository created for AI/ML Internship Program*  
+*Last updated: July 19, 2026*
