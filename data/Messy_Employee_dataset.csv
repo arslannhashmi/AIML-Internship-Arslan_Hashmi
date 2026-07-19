@@ -1,0 +1,3 @@
+Employee_ID,First_Name,Last_Name,Age,Department_Region,Status,Join_Date,Salary,Email,Phone,Performance_Score,Remote_Work
+EMP1000,Bob,Davis,25,DevOps-California,Active,4/2/2021,59767.65,bob.davis@example.com,-1651623197,Average,TRUE
+# Full dataset is the one provided in the lab attachment. Re-upload the complete CSV from local if needed for full reproduction.
