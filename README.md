@@ -28,13 +28,13 @@ This repository is my public learning log — every lab, assignment, and insight
 
 ```text
 AIML-Internship-Arslan_Hashmi/
-├── Assignment1_EDA_ArslanHashmi.ipynb                  # Full EDA on NYC Airbnb listings
-├── Lab03_Data_Cleaning_Preprocessing_ArslanHashmi.ipynb # Data Cleaning & Preprocessing Lab
-├── Lab04_Data_Visualization_ArslanHashmi.ipynb         # Matplotlib + Seaborn Lab
+├── Lab02_Python_NumPy_Pandas_ArslanHashmi.ipynb          # Python + NumPy + Pandas fundamentals
+├── Lab03_Data_Cleaning_Preprocessing_ArslanHashmi.ipynb  # Data Cleaning & Preprocessing
+├── Lab04_Data_Visualization_ArslanHashmi.ipynb           # Matplotlib + Seaborn
+├── Assignment1_EDA_ArslanHashmi.ipynb                   # Full EDA on NYC Airbnb
 ├── data/
-│   ├── Messy_Employee_dataset.csv                      # Raw messy HR dataset (Lab 3)
-│   ├── employee_records_clean.csv                      # Fully cleaned version (Lab 3)
-│   └── titanic.csv
+│   ├── Messy_Employee_dataset.csv
+│   └── employee_records_clean.csv
 └── README.md
 ```
 
@@ -42,19 +42,24 @@ AIML-Internship-Arslan_Hashmi/
 
 ## 🧪 Labs & Assignments
 
+### ✅ Lab 2 — Python Fundamentals, NumPy & Pandas
+- **Notebook**: [Lab02_Python_NumPy_Pandas_ArslanHashmi.ipynb](Lab02_Python_NumPy_Pandas_ArslanHashmi.ipynb)
+- Core Python (f-strings, list comprehensions, dictionaries, functions)
+- NumPy arrays, vectorized operations, min-max normalization, reshaping, broadcasting
+- Pandas DataFrames: filtering, new columns, groupby + agg, missing-value handling
+- Fully completed exercises + 5 personal Lab Tasks
+
 ### ✅ Lab 3 — Data Cleaning & Preprocessing
 - **Notebook**: [Lab03_Data_Cleaning_Preprocessing_ArslanHashmi.ipynb](Lab03_Data_Cleaning_Preprocessing_ArslanHashmi.ipynb)
-- Hands-on cleaning of a messy employee records dataset
-- Topics covered:
-  - Dataset inspection (shape, dtypes, missing values, duplicates)
-  - Duplicate removal
-  - Missing-value imputation (median for Age, mean for Salary)
-  - Text standardization (names → title case, Department/Region split + acronym fix)
-  - Data-type correction (negative phones → positive strings, mixed dates → datetime)
-  - Outlier detection with the IQR method (Age & Salary)
-  - Department-level summary statistics
-  - Export of analysis-ready CSV
-- **Datasets**: `data/Messy_Employee_dataset.csv` → `data/employee_records_clean.csv`
+- Cleaning a messy employee records dataset end-to-end
+- Missing-value imputation, text standardization, type correction, IQR outlier detection
+- Export of analysis-ready CSV
+
+### ✅ Lab 4 — Data Visualization with Matplotlib & Seaborn
+- **Notebook**: [Lab04_Data_Visualization_ArslanHashmi.ipynb](Lab04_Data_Visualization_ArslanHashmi.ipynb)
+- Histograms, bar charts, count plots, box plots, correlation heatmaps
+- Survival analysis visualizations on the Titanic dataset
+- Fully completed exercises + reflection tasks
 
 ### ✅ Assignment 1 — Exploratory Data Analysis (NYC Airbnb)
 - **Notebook**: [Assignment1_EDA_ArslanHashmi.ipynb](Assignment1_EDA_ArslanHashmi.ipynb)
@@ -62,36 +67,26 @@ AIML-Internship-Arslan_Hashmi/
 - Data cleaning, feature engineering, univariate & multivariate visualizations
 - Key insights + actionable recommendations for new hosts
 
-### ✅ Lab 4 — Data Visualization with Matplotlib & Seaborn
-- **Notebook**: [Lab04_Data_Visualization_ArslanHashmi.ipynb](Lab04_Data_Visualization_ArslanHashmi.ipynb)
-- Hands-on practice with:
-  - Histograms & Bar charts (Matplotlib)
-  - Count plots & Box plots (Seaborn)
-  - Correlation heatmaps for EDA
-  - Survival analysis visualizations on the Titanic dataset
-- Fully completed exercises + reflection tasks
-- Dataset loads automatically from a public URL (self-contained)
-
 ---
 
 ## 🛠️ Tech Stack & Focus Areas
 
-| Area                    | Tools / Concepts                          |
-|-------------------------|-------------------------------------------|
-| Data Wrangling          | Pandas, NumPy                             |
-| Data Cleaning           | Missing values, duplicates, outliers (IQR), type conversion, text standardization |
-| Visualization           | Matplotlib, Seaborn                       |
-| Exploratory Analysis    | Correlation, distributions, outliers      |
-| Future Focus            | Scikit-learn, AI Agents, LLM workflows    |
+| Area                    | Tools / Concepts                                      |
+|-------------------------|-------------------------------------------------------|
+| Core Python             | f-strings, comprehensions, functions, dictionaries    |
+| Numerical Computing     | NumPy arrays, vectorization, broadcasting, reshape    |
+| Data Wrangling          | Pandas DataFrames, filtering, groupby, missing values |
+| Data Cleaning           | Duplicates, imputation, text cleanup, IQR outliers    |
+| Visualization           | Matplotlib, Seaborn                                   |
+| Future Focus            | Scikit-learn, AI Agents, LLM workflows                |
 
 ---
 
 ## 📈 Learning Philosophy
 
-> "Clean data is the foundation of every trustworthy insight."  
-> You can't model what you can't trust.
+> "You can't model what you can't see — and you can't trust what you haven't cleaned."
 
-I treat every lab as production-quality work: clean code, clear explanations, professional presentation, and a complete end-to-end pipeline from raw mess to analysis-ready data.
+I treat every lab as production-quality work: clean code, clear explanations, professional presentation, and a complete pipeline from raw data to insight.
 
 ---
 
@@ -105,6 +100,6 @@ I treat every lab as production-quality work: clean code, clear explanations, pr
 <div align="center">
 
 **Last updated:** July 20, 2026  
-*Built with ❤️, Pandas, and a healthy respect for missing values*
+*Built with ❤️, NumPy vectorization, and lots of `plt.show()`*
 
 </div>
