@@ -49,7 +49,7 @@ AIML-Internship-Arslan_Hashmi/
 ├── Lab03_Data_Cleaning_Preprocessing_ArslanHashmi.ipynb
 ├── Lab04_Data_Visualization_ArslanHashmi.ipynb
 ├── Lab06_Intro_to_Machine_Learning_ArslanHashmi.ipynb
-├── Lab07_Regression_Models_ArslanHashmi.ipynb
+├── Lab08_Classification_Models_ArslanHashmi.ipynb
 ├── Assignment1_EDA_ArslanHashmi.ipynb
 │
 ├── data/
@@ -67,46 +67,35 @@ AIML-Internship-Arslan_Hashmi/
 ### ✅ Lab 2 — Python Fundamentals, NumPy & Pandas
 **Notebook:** [Lab02_Python_NumPy_Pandas_ArslanHashmi.ipynb](Lab02_Python_NumPy_Pandas_ArslanHashmi.ipynb)
 
-- Core Python (f-strings, list comprehensions, dictionaries, functions)
-- NumPy arrays, vectorized operations, normalization, reshaping & broadcasting
-- Pandas DataFrames: filtering, feature creation, groupby + aggregation
+- Core Python, NumPy arrays, Pandas DataFrames
 
 ### ✅ Lab 3 — Data Cleaning & Preprocessing
 **Notebook:** [Lab03_Data_Cleaning_Preprocessing_ArslanHashmi.ipynb](Lab03_Data_Cleaning_Preprocessing_ArslanHashmi.ipynb)
 
-- End-to-end cleaning of a messy employee records dataset
-- Missing value imputation, text standardization, type correction
-- IQR-based outlier detection
+- Missing values, text standardization, IQR outliers
 
-### ✅ Lab 4 — Data Visualization with Matplotlib & Seaborn
+### ✅ Lab 4 — Data Visualization
 **Notebook:** [Lab04_Data_Visualization_ArslanHashmi.ipynb](Lab04_Data_Visualization_ArslanHashmi.ipynb)
 
-- Histograms, bar charts, count plots, box plots, correlation heatmaps
-- Survival analysis visualizations (Titanic dataset)
+- Matplotlib & Seaborn visualizations
 
 ### ✅ Lab 6 — Introduction to Machine Learning
 **Notebook:** [Lab06_Intro_to_Machine_Learning_ArslanHashmi.ipynb](Lab06_Intro_to_Machine_Learning_ArslanHashmi.ipynb)
 
-- Loading & exploring the classic Iris dataset
-- Train-test split (understanding overfitting prevention)
-- Feature scaling with `StandardScaler`
-- Complete data-preparation workflow ready for modeling
+- Train-test split, StandardScaler, Iris dataset preparation
 
-### ✅ Lab 7 — Regression Models
-**Notebook:** [Lab07_Regression_Models_ArslanHashmi.ipynb](Lab07_Regression_Models_ArslanHashmi.ipynb)
+### ✅ Lab 8 — Classification Models
+**Notebook:** [Lab08_Classification_Models_ArslanHashmi.ipynb](Lab08_Classification_Models_ArslanHashmi.ipynb)
 
-- Simple Linear Regression (single feature)
-- Multiple Linear Regression (multiple features)
-- Polynomial Regression (degree=2)
-- Evaluation metrics: MSE, RMSE, R² Score
-- Full-feature model on California Housing dataset
-- Coefficient analysis & model comparison
+- Logistic Regression, K-Nearest Neighbors, Decision Trees
+- Accuracy comparison, hyperparameter tuning for KNN
+- Decision Tree visualization & interpretation
+- Fully completed practice exercises + 5 Lab Tasks
 
 ### ✅ Assignment 1 — Exploratory Data Analysis (NYC Airbnb)
 **Notebook:** [Assignment1_EDA_ArslanHashmi.ipynb](Assignment1_EDA_ArslanHashmi.ipynb)
 
-- Full EDA on the 2019 New York City Airbnb Open Dataset
-- Data cleaning, feature engineering, univariate & multivariate analysis
+- Full EDA on the 2019 NYC Airbnb dataset
 
 ---
 
@@ -114,24 +103,24 @@ AIML-Internship-Arslan_Hashmi/
 
 | Area                  | Tools / Concepts                                      |
 |-----------------------|-------------------------------------------------------|
-| Core Python           | f-strings, comprehensions, functions, dictionaries    |
-| Numerical Computing   | NumPy (arrays, vectorization, broadcasting)           |
-| Data Wrangling        | Pandas (filtering, groupby, missing values)           |
-| Data Cleaning         | Imputation, standardization, IQR outliers             |
+| Core Python           | f-strings, comprehensions, functions                  |
+| Numerical Computing   | NumPy                                                 |
+| Data Wrangling        | Pandas                                                |
+| Data Cleaning         | Imputation, standardization, IQR                      |
 | Visualization         | Matplotlib, Seaborn                                   |
-| Machine Learning      | Scikit-learn (LinearRegression, train-test split, metrics) |
-| Upcoming              | Classification, AI Agents, LLM workflows              |
+| Machine Learning      | Scikit-learn (Logistic Regression, KNN, Decision Tree)|
+| Upcoming              | Evaluation metrics, more models, AI Agents            |
 
 ---
 
 ## 📈 Learning Philosophy
 
-> "Clean data is the foundation of every trustworthy insight."
+> "Start simple. Understand your data. Then improve."
 
 I treat every lab as production-quality work:
 - Clear and readable code
 - Proper documentation
-- Complete end-to-end pipelines (raw data → cleaned data → insight)
+- Complete end-to-end pipelines
 
 ---
 
