@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?logo=scikit-learn&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
@@ -48,12 +48,14 @@ AIML-Internship-Arslan_Hashmi/
 ├── Lab02_Python_NumPy_Pandas_ArslanHashmi.ipynb
 ├── Lab03_Data_Cleaning_Preprocessing_ArslanHashmi.ipynb
 ├── Lab04_Data_Visualization_ArslanHashmi.ipynb
+├── Lab06_Intro_to_Machine_Learning_ArslanHashmi.ipynb
 ├── Assignment1_EDA_ArslanHashmi.ipynb
 │
 ├── data/
 │   ├── Messy_Employee_dataset.csv
 │   └── employee_records_clean.csv
 │
+├── LICENSE
 └── README.md
 ```
 
@@ -67,7 +69,6 @@ AIML-Internship-Arslan_Hashmi/
 - Core Python (f-strings, list comprehensions, dictionaries, functions)
 - NumPy arrays, vectorized operations, normalization, reshaping & broadcasting
 - Pandas DataFrames: filtering, feature creation, groupby + aggregation
-- Fully completed exercises + personal Lab Tasks
 
 ### ✅ Lab 3 — Data Cleaning & Preprocessing
 **Notebook:** [Lab03_Data_Cleaning_Preprocessing_ArslanHashmi.ipynb](Lab03_Data_Cleaning_Preprocessing_ArslanHashmi.ipynb)
@@ -75,22 +76,27 @@ AIML-Internship-Arslan_Hashmi/
 - End-to-end cleaning of a messy employee records dataset
 - Missing value imputation, text standardization, type correction
 - IQR-based outlier detection
-- Export of analysis-ready CSV
 
 ### ✅ Lab 4 — Data Visualization with Matplotlib & Seaborn
 **Notebook:** [Lab04_Data_Visualization_ArslanHashmi.ipynb](Lab04_Data_Visualization_ArslanHashmi.ipynb)
 
-- Histograms, bar charts, count plots, box plots
-- Correlation heatmaps
+- Histograms, bar charts, count plots, box plots, correlation heatmaps
 - Survival analysis visualizations (Titanic dataset)
-- Completed exercises + reflection tasks
+
+### ✅ Lab 6 — Introduction to Machine Learning
+**Notebook:** [Lab06_Intro_to_Machine_Learning_ArslanHashmi.ipynb](Lab06_Intro_to_Machine_Learning_ArslanHashmi.ipynb)
+
+- Loading & exploring the classic Iris dataset
+- Train-test split (understanding overfitting prevention)
+- Feature scaling with `StandardScaler`
+- Complete data-preparation workflow ready for modeling
+- Fully completed practice exercises + 5 Lab Tasks
 
 ### ✅ Assignment 1 — Exploratory Data Analysis (NYC Airbnb)
 **Notebook:** [Assignment1_EDA_ArslanHashmi.ipynb](Assignment1_EDA_ArslanHashmi.ipynb)
 
 - Full EDA on the 2019 New York City Airbnb Open Dataset
 - Data cleaning, feature engineering, univariate & multivariate analysis
-- Key insights and actionable recommendations
 
 ---
 
@@ -103,7 +109,8 @@ AIML-Internship-Arslan_Hashmi/
 | Data Wrangling        | Pandas (filtering, groupby, missing values)           |
 | Data Cleaning         | Imputation, standardization, IQR outliers             |
 | Visualization         | Matplotlib, Seaborn                                   |
-| Upcoming              | Scikit-learn, AI Agents, LLM workflows                |
+| Machine Learning      | Scikit-learn (train-test split, StandardScaler)       |
+| Upcoming              | Model training, evaluation, AI Agents, LLM workflows  |
 
 ---
 
@@ -129,8 +136,8 @@ I treat every lab as production-quality work:
 <div align="center">
 
 **AI/ML Internship Program — Learning Log**  
-*Last updated: July 20, 2026*
+*Last updated: July 23, 2026*
 
-Built with ❤️ using Python, Pandas, and continuous improvement.
+Built with ❤️ using Python, Scikit-learn, and continuous improvement.
 
 </div>
