@@ -1,244 +1,172 @@
 <div align="center">
 
-# 🚀 AI/ML Internship Journey
+# ✨ AI / ML Internship Journey
 
 ### Arslan Hashmi
 
-**Computer Science Student • National University of Technology (NUTECH)**  
-*5th Semester | Aspiring AI Engineer*
+<img src="https://img.shields.io/badge/NUTECH-5th%20Semester-0A66C2?style=for-the-badge" alt="NUTECH"/>
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-8A2BE2?style=for-the-badge" alt="Focus"/>
+<img src="https://img.shields.io/badge/Status-Actively%20Building-00C853?style=for-the-badge" alt="Status"/>
 
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-Data-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/arslannhashmi/AIML-Internship-Arslan_Hashmi)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+<br/>
 
-*Building intelligent systems one lab at a time*
+**Turning data into intelligence — one lab at a time.**
 
-[View Labs](#-labs--assignments) • [Skills Map](#-skills-map) • [Connect](#-connect)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://python.org)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 💫 Who I Am
 
-I'm **Arslan Hashmi**, a Computer Science student at **NUTECH** currently deep into an intensive AI/ML Internship Program.  
-This repository is my public learning log — every concept, every model, and every insight is documented with clean code and clear thinking.
+> **Arslan Hashmi** — CS student at **National University of Technology (NUTECH)**  
+> Currently immersed in an intensive AI/ML Internship Program.  
+> This repository is my living portfolio: every concept I learn is turned into clean, runnable code.
 
-My goal is simple: become an AI Engineer who can take messy real-world data and turn it into reliable, useful intelligence.
-
----
-
-## 🎯 About This Repository
-
-This is the official portfolio of my AI/ML Internship work.
-
-| What you'll find | Description |
-|------------------|----------|
-| **Weekly Labs** | Hands-on notebooks covering core ML concepts |
-| **Assignments** | End-to-end projects (EDA, modeling, evaluation) |
-| **Clean Code** | Readable, well-commented, production-minded |
-| **Learning Path** | Structured progression from Python → ML models |
+**Mission:** Become an AI Engineer who can take messy real-world data and turn it into reliable, useful intelligence.
 
 ---
 
-## 📂 Repository Structure
+## 📍 Learning Roadmap
 
 ```text
-AIML-Internship-Arslan_Hashmi/
+Week 1 ─────────────────────────────────────────────────
 │
-├── Lab02_Python_NumPy_Pandas_ArslanHashmi.ipynb
-├── Lab03_Data_Cleaning_Preprocessing_ArslanHashmi.ipynb
-├── Lab04_Data_Visualization_ArslanHashmi.ipynb
-├── Lab06_Intro_to_Machine_Learning_ArslanHashmi.ipynb
-├── Lab07_Regression_Models_ArslanHashmi.ipynb
-├── Lab08_Classification_Models_ArslanHashmi.ipynb
-├── Lab09_Model_Evaluation_Metrics_ArslanHashmi.ipynb
-├── Assignment1_EDA_ArslanHashmi.ipynb
+├─ 🟢 Lab 02 ─ Python + NumPy + Pandas
+├─ 🟢 Lab 03 ─ Data Cleaning & Preprocessing
+├─ 🟢 Lab 04 ─ Data Visualization
 │
-├── data/
-│   ├── Messy_Employee_dataset.csv
-│   └── employee_records_clean.csv
+Week 2 ─────────────────────────────────────────────────
 │
-├── LICENSE
-└── README.md
+├─ 🟡 Lab 06 ─ Intro to Machine Learning
+├─ 🟡 Lab 07 ─ Regression Models
+├─ 🟡 Lab 08 ─ Classification Models
+├─ 🟡 Lab 09 ─ Model Evaluation & Metrics
+│
+Projects ────────────────────────────────────────────────
+│
+└─ 📝 Assignment 1 ─ NYC Airbnb EDA
 ```
 
 ---
 
-## 🧪 Labs & Assignments
+## 🧪 Labs Gallery
 
 ### 🟢 Foundation Phase
 
-<table>
-<tr>
-<td width="80"><b>Lab 02</b></td>
-<td>
-
-**Python Fundamentals, NumPy & Pandas**  
-[Open Notebook →](Lab02_Python_NumPy_Pandas_ArslanHashmi.ipynb)
-
-Core Python • Vectorization • DataFrames • GroupBy
-
-</td>
-</tr>
-<tr>
-<td><b>Lab 03</b></td>
-<td>
-
-**Data Cleaning & Preprocessing**  
-[Open Notebook →](Lab03_Data_Cleaning_Preprocessing_ArslanHashmi.ipynb)
-
-Missing values • Text standardization • IQR outliers • Type correction
-
-</td>
-</tr>
-<tr>
-<td><b>Lab 04</b></td>
-<td>
-
-**Data Visualization**  
-[Open Notebook →](Lab04_Data_Visualization_ArslanHashmi.ipynb)
-
-Matplotlib • Seaborn • Histograms • Box plots • Heatmaps
-
-</td>
-</tr>
-</table>
+| Lab | Title | Key Skills | Run |
+|:---:|-------|------------|:---:|
+| **02** | [Python, NumPy & Pandas](Lab02_Python_NumPy_Pandas_ArslanHashmi.ipynb) | f-strings • Vectorization • DataFrames • GroupBy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arslannhashmi/AIML-Internship-Arslan_Hashmi/blob/main/Lab02_Python_NumPy_Pandas_ArslanHashmi.ipynb) |
+| **03** | [Data Cleaning & Preprocessing](Lab03_Data_Cleaning_Preprocessing_ArslanHashmi.ipynb) | Missing values • IQR • Text cleanup • Type fixes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arslannhashmi/AIML-Internship-Arslan_Hashmi/blob/main/Lab03_Data_Cleaning_Preprocessing_ArslanHashmi.ipynb) |
+| **04** | [Data Visualization](Lab04_Data_Visualization_ArslanHashmi.ipynb) | Matplotlib • Seaborn • Heatmaps • Distributions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arslannhashmi/AIML-Internship-Arslan_Hashmi/blob/main/Lab04_Data_Visualization_ArslanHashmi.ipynb) |
 
 ### 🟡 Machine Learning Core
 
-<table>
-<tr>
-<td width="80"><b>Lab 06</b></td>
-<td>
-
-**Introduction to Machine Learning**  
-[Open Notebook →](Lab06_Intro_to_Machine_Learning_ArslanHashmi.ipynb)
-
-Train-test split • Feature scaling • Iris dataset pipeline
-
-</td>
-</tr>
-<tr>
-<td><b>Lab 07</b></td>
-<td>
-
-**Regression Models**  
-[Open Notebook →](Lab07_Regression_Models_ArslanHashmi.ipynb)
-
-Linear • Multiple • Polynomial Regression • MSE / RMSE / R²
-
-</td>
-</tr>
-<tr>
-<td><b>Lab 08</b></td>
-<td>
-
-**Classification Models**  
-[Open Notebook →](Lab08_Classification_Models_ArslanHashmi.ipynb)
-
-Logistic Regression • KNN • Decision Trees • Hyperparameter tuning
-
-</td>
-</tr>
-<tr>
-<td><b>Lab 09</b></td>
-<td>
-
-**Model Evaluation & Metrics**  
-[Open Notebook →](Lab09_Model_Evaluation_Metrics_ArslanHashmi.ipynb)
-
-Confusion Matrix • Precision / Recall / F1 • ROC-AUC • Cross-Validation
-
-</td>
-</tr>
-</table>
+| Lab | Title | Key Skills | Run |
+|:---:|-------|------------|:---:|
+| **06** | [Intro to Machine Learning](Lab06_Intro_to_Machine_Learning_ArslanHashmi.ipynb) | Train-test split • StandardScaler • Pipelines | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arslannhashmi/AIML-Internship-Arslan_Hashmi/blob/main/Lab06_Intro_to_Machine_Learning_ArslanHashmi.ipynb) |
+| **07** | [Regression Models](Lab07_Regression_Models_ArslanHashmi.ipynb) | Linear • Multiple • Polynomial • RMSE / R² | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arslannhashmi/AIML-Internship-Arslan_Hashmi/blob/main/Lab07_Regression_Models_ArslanHashmi.ipynb) |
+| **08** | [Classification Models](Lab08_Classification_Models_ArslanHashmi.ipynb) | Logistic Regression • KNN • Decision Trees | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arslannhashmi/AIML-Internship-Arslan_Hashmi/blob/main/Lab08_Classification_Models_ArslanHashmi.ipynb) |
+| **09** | [Model Evaluation & Metrics](Lab09_Model_Evaluation_Metrics_ArslanHashmi.ipynb) | Confusion Matrix • Precision/Recall/F1 • ROC-AUC • CV | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arslannhashmi/AIML-Internship-Arslan_Hashmi/blob/main/Lab09_Model_Evaluation_Metrics_ArslanHashmi.ipynb) |
 
 ### 📝 Projects
 
-<table>
-<tr>
-<td width="80"><b>A1</b></td>
-<td>
-
-**Exploratory Data Analysis — NYC Airbnb**  
-[Open Notebook →](Assignment1_EDA_ArslanHashmi.ipynb)
-
-Full EDA pipeline • Feature engineering • Insights & recommendations
-
-</td>
-</tr>
-</table>
+| # | Title | Focus | Run |
+|:-:|-------|-------|:---:|
+| **A1** | [NYC Airbnb Exploratory Data Analysis](Assignment1_EDA_ArslanHashmi.ipynb) | Full EDA pipeline • Feature engineering • Insights | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arslannhashmi/AIML-Internship-Arslan_Hashmi/blob/main/Assignment1_EDA_ArslanHashmi.ipynb) |
 
 ---
 
-## 📊 Skills Map
+## 📊 Skills Progress
 
 ```text
-Python Fundamentals     ▮▮▮▮▮▮▮▮▮▮  Strong
-NumPy & Vectorization   ▮▮▮▮▮▮▮▮▮▮  Strong
-Pandas & Data Wrangling ▮▮▮▮▮▮▮▮▮▮  Strong
-Data Cleaning           ▮▮▮▮▮▮▮▮▮▫  Solid
-Visualization           ▮▮▮▮▮▮▮▮▫▫  Solid
-Regression Models       ▮▮▮▮▮▮▮▮▫▫  Solid
-Classification Models   ▮▮▮▮▮▮▮▮▫▫  Solid
-Model Evaluation        ▮▮▮▮▮▮▮▮▫▫  Solid
-Feature Engineering     ▮▮▮▮▮▮▮▫▫▫  Growing
-Ensemble Methods        ▮▮▮▫▫▫▫▫▫▫  Next
+Python Fundamentals      ██████████  100%
+NumPy & Vectorization    ██████████  100%
+Pandas & Data Wrangling  ██████████  100%
+Data Cleaning            █████████░   90%
+Visualization            ████████░░   80%
+Regression Models        ████████░░   80%
+Classification Models    ████████░░   80%
+Model Evaluation         ████████░░   80%
+Feature Engineering      ███████░░░   70%
+Ensemble Methods         ███░░░░░░░   30%  ← Next up
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category              | Tools & Concepts                                      |
-|-----------------------|-------------------------------------------------------|
-| **Language**          | Python 3.10+                                          |
-| **Data**              | Pandas, NumPy                                         |
-| **Visualization**     | Matplotlib, Seaborn                                   |
-| **Machine Learning**  | Scikit-learn (Linear/Logistic Regression, KNN, Trees) |
-| **Evaluation**        | Confusion Matrix, Precision/Recall/F1, ROC-AUC, CV    |
-| **Environment**       | Google Colab, Jupyter                                 |
+```text
+Language        Python 3.10+
+Data            Pandas • NumPy
+Visualization   Matplotlib • Seaborn
+Machine Learning Scikit-learn
+Evaluation      Confusion Matrix • Precision/Recall/F1 • ROC-AUC • Cross-Validation
+Environment     Google Colab • Jupyter
+```
 
 ---
 
-## 📈 Learning Philosophy
+## 💡 Philosophy
 
 > *"Clean data is the foundation of every trustworthy insight.  
 > Start simple. Understand deeply. Then improve."*
 
-I treat every lab as production-quality work:
+Every notebook in this repository follows the same standard:
+
 - Clear, readable code
-- Proper documentation
-- Complete pipelines (raw data → insight)
-- Honest evaluation of model strengths and weaknesses
+- Complete pipelines (raw → insight)
+- Honest evaluation of strengths & weaknesses
+- Written so that a future me (or a recruiter) can understand it in minutes
 
 ---
 
-## 🛠 How to Use This Repo
+## ⚡ Quick Start
 
-1. Browse the labs in order (Foundation → ML Core)
-2. Open any notebook in Google Colab or Jupyter
-3. Run cells top-to-bottom — most are self-contained
-4. Datasets either load from public URLs or live in the `/data` folder
+```bash
+# Clone the repository
+git clone https://github.com/arslannhashmi/AIML-Internship-Arslan_Hashmi.git
+cd AIML-Internship-Arslan_Hashmi
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Open any notebook and run
+jupyter notebook
+```
+
+Or simply click any **Open in Colab** badge above — no setup required.
+
+---
+
+## 🌟 What's Next
+
+- [ ] Ensemble methods (Random Forest, Gradient Boosting)
+- [ ] Hyperparameter tuning with GridSearchCV / RandomizedSearchCV
+- [ ] Feature selection & dimensionality reduction
+- [ ] Introduction to Neural Networks
+- [ ] End-to-end ML project from scratch
 
 ---
 
 ## 📬 Connect
 
-- **GitHub:** [arslannhashmi](https://github.com/arslannhashmi)
-- **Email:** f24605185@nutech.edu.pk
-- **Institution:** National University of Technology (NUTECH), Pakistan
-
----
-
 <div align="center">
 
-**AI/ML Internship Program — Learning Log**  
-*Last updated: July 23, 2026*
+**Arslan Hashmi**  
+Computer Science • NUTECH • Pakistan
 
-Built with ❤️, curiosity, and a lot of `Shift + Enter`
+[![GitHub](https://img.shields.io/badge/GitHub-arslannhashmi-181717?logo=github)](https://github.com/arslannhashmi)
+[![Email](https://img.shields.io/badge/Email-f24605185%40nutech.edu.pk-D14836?logo=gmail&logoColor=white)](mailto:f24605185@nutech.edu.pk)
+
+<br/>
+
+*Last updated: July 23, 2026*  
+Built with curiosity, discipline, and a lot of `Shift + Enter`
 
 </div>
