@@ -1,0 +1,39 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data / model artifacts (keep intentional datasets only)
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# Environment & secrets
+.env
+*.env
+secrets.json
+
+# Logs & temp
+*.log
+tmp/
+temp/
