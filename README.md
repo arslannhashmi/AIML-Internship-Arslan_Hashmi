@@ -1,16 +1,21 @@
-# 🚀 AI/ML Internship Journey — Arslan Hashmi
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical-013243?logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?logo=scikit-learn&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![License](https://img.shields.io/badge/License-MIT-green)
+# 🚀 AI/ML Internship Journey
 
-**Computer Science Student @ National University of Technology (NUTECH)**  
+### Arslan Hashmi
+
+**Computer Science Student • National University of Technology (NUTECH)**  
 *5th Semester | Aspiring AI Engineer*
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/arslannhashmi/AIML-Internship-Arslan_Hashmi)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+*Building intelligent systems one lab at a time*
+
+[View Labs](#-labs--assignments) • [Skills Map](#-skills-map) • [Connect](#-connect)
 
 </div>
 
@@ -18,25 +23,23 @@
 
 ## 👋 About Me
 
-Hi, I'm **Arslan Hashmi**, a Computer Science student at the **National University of Technology (NUTECH)**, currently in my 5th semester.
+I'm **Arslan Hashmi**, a Computer Science student at **NUTECH** currently deep into an intensive AI/ML Internship Program.  
+This repository is my public learning log — every concept, every model, and every insight is documented with clean code and clear thinking.
 
-I am enrolled in an intensive **AI/ML Internship Program** focused on building strong foundations in data science, machine learning, and intelligent systems. This repository serves as my central learning hub — every lab, assignment, and project from the program is documented here with clean code, clear explanations, and professional presentation.
-
-My goal is to grow into a skilled AI Engineer who can turn real-world data into reliable insights and practical solutions.
+My goal is simple: become an AI Engineer who can take messy real-world data and turn it into reliable, useful intelligence.
 
 ---
 
-## 📌 About This Repository
+## 🎯 About This Repository
 
-This is the official repository for my **AI/ML Internship Program** work.
+This is the official portfolio of my AI/ML Internship work.
 
-It contains:
-- Weekly hands-on labs
-- Assignments and mini-projects
-- Cleaned datasets and analysis-ready outputs
-- Documented learning progress from Day 1 onward
-
-All work is organized by lab number for easy navigation and review.
+| What you'll find | Description |
+|------------------|----------|
+| **Weekly Labs** | Hands-on notebooks covering core ML concepts |
+| **Assignments** | End-to-end projects (EDA, modeling, evaluation) |
+| **Clean Code** | Readable, well-commented, production-minded |
+| **Learning Path** | Structured progression from Python → ML models |
 
 ---
 
@@ -66,76 +69,160 @@ AIML-Internship-Arslan_Hashmi/
 
 ## 🧪 Labs & Assignments
 
-### ✅ Lab 2 — Python Fundamentals, NumPy & Pandas
-**Notebook:** [Lab02_Python_NumPy_Pandas_ArslanHashmi.ipynb](Lab02_Python_NumPy_Pandas_ArslanHashmi.ipynb)
+### 🟢 Foundation Phase
 
-- Core Python, NumPy arrays, Pandas DataFrames
+<table>
+<tr>
+<td width="80"><b>Lab 02</b></td>
+<td>
 
-### ✅ Lab 3 — Data Cleaning & Preprocessing
-**Notebook:** [Lab03_Data_Cleaning_Preprocessing_ArslanHashmi.ipynb](Lab03_Data_Cleaning_Preprocessing_ArslanHashmi.ipynb)
+**Python Fundamentals, NumPy & Pandas**  
+[Open Notebook →](Lab02_Python_NumPy_Pandas_ArslanHashmi.ipynb)
 
-- Missing values, text standardization, IQR outliers
+Core Python • Vectorization • DataFrames • GroupBy
 
-### ✅ Lab 4 — Data Visualization
-**Notebook:** [Lab04_Data_Visualization_ArslanHashmi.ipynb](Lab04_Data_Visualization_ArslanHashmi.ipynb)
+</td>
+</tr>
+<tr>
+<td><b>Lab 03</b></td>
+<td>
 
-- Matplotlib & Seaborn visualizations
+**Data Cleaning & Preprocessing**  
+[Open Notebook →](Lab03_Data_Cleaning_Preprocessing_ArslanHashmi.ipynb)
 
-### ✅ Lab 6 — Introduction to Machine Learning
-**Notebook:** [Lab06_Intro_to_Machine_Learning_ArslanHashmi.ipynb](Lab06_Intro_to_Machine_Learning_ArslanHashmi.ipynb)
+Missing values • Text standardization • IQR outliers • Type correction
 
-- Train-test split, StandardScaler, Iris dataset preparation
+</td>
+</tr>
+<tr>
+<td><b>Lab 04</b></td>
+<td>
 
-### ✅ Lab 7 — Regression Models
-**Notebook:** [Lab07_Regression_Models_ArslanHashmi.ipynb](Lab07_Regression_Models_ArslanHashmi.ipynb)
+**Data Visualization**  
+[Open Notebook →](Lab04_Data_Visualization_ArslanHashmi.ipynb)
 
-- Simple, Multiple & Polynomial Linear Regression
-- MSE, RMSE, R² evaluation on California Housing dataset
+Matplotlib • Seaborn • Histograms • Box plots • Heatmaps
 
-### ✅ Lab 8 — Classification Models
-**Notebook:** [Lab08_Classification_Models_ArslanHashmi.ipynb](Lab08_Classification_Models_ArslanHashmi.ipynb)
+</td>
+</tr>
+</table>
 
-- Logistic Regression, K-Nearest Neighbors, Decision Trees
-- Accuracy comparison & hyperparameter tuning
+### 🟡 Machine Learning Core
 
-### ✅ Lab 9 — Model Evaluation & Metrics
-**Notebook:** [Lab09_Model_Evaluation_Metrics_ArslanHashmi.ipynb](Lab09_Model_Evaluation_Metrics_ArslanHashmi.ipynb)
+<table>
+<tr>
+<td width="80"><b>Lab 06</b></td>
+<td>
 
-- Confusion Matrix, Precision, Recall, F1-Score
-- ROC Curve & AUC
-- Cross-Validation
-- Threshold analysis & multi-model comparison (LR, KNN, Decision Tree)
+**Introduction to Machine Learning**  
+[Open Notebook →](Lab06_Intro_to_Machine_Learning_ArslanHashmi.ipynb)
 
-### ✅ Assignment 1 — Exploratory Data Analysis (NYC Airbnb)
-**Notebook:** [Assignment1_EDA_ArslanHashmi.ipynb](Assignment1_EDA_ArslanHashmi.ipynb)
+Train-test split • Feature scaling • Iris dataset pipeline
 
-- Full EDA on the 2019 NYC Airbnb dataset
+</td>
+</tr>
+<tr>
+<td><b>Lab 07</b></td>
+<td>
+
+**Regression Models**  
+[Open Notebook →](Lab07_Regression_Models_ArslanHashmi.ipynb)
+
+Linear • Multiple • Polynomial Regression • MSE / RMSE / R²
+
+</td>
+</tr>
+<tr>
+<td><b>Lab 08</b></td>
+<td>
+
+**Classification Models**  
+[Open Notebook →](Lab08_Classification_Models_ArslanHashmi.ipynb)
+
+Logistic Regression • KNN • Decision Trees • Hyperparameter tuning
+
+</td>
+</tr>
+<tr>
+<td><b>Lab 09</b></td>
+<td>
+
+**Model Evaluation & Metrics**  
+[Open Notebook →](Lab09_Model_Evaluation_Metrics_ArslanHashmi.ipynb)
+
+Confusion Matrix • Precision / Recall / F1 • ROC-AUC • Cross-Validation
+
+</td>
+</tr>
+</table>
+
+### 📝 Projects
+
+<table>
+<tr>
+<td width="80"><b>A1</b></td>
+<td>
+
+**Exploratory Data Analysis — NYC Airbnb**  
+[Open Notebook →](Assignment1_EDA_ArslanHashmi.ipynb)
+
+Full EDA pipeline • Feature engineering • Insights & recommendations
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Skills Map
+
+```text
+Python Fundamentals     ▮▮▮▮▮▮▮▮▮▮  Strong
+NumPy & Vectorization   ▮▮▮▮▮▮▮▮▮▮  Strong
+Pandas & Data Wrangling ▮▮▮▮▮▮▮▮▮▮  Strong
+Data Cleaning           ▮▮▮▮▮▮▮▮▮▫  Solid
+Visualization           ▮▮▮▮▮▮▮▮▫▫  Solid
+Regression Models       ▮▮▮▮▮▮▮▮▫▫  Solid
+Classification Models   ▮▮▮▮▮▮▮▮▫▫  Solid
+Model Evaluation        ▮▮▮▮▮▮▮▮▫▫  Solid
+Feature Engineering     ▮▮▮▮▮▮▮▫▫▫  Growing
+Ensemble Methods        ▮▮▮▫▫▫▫▫▫▫  Next
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Area                  | Tools / Concepts                                      |
+| Category              | Tools & Concepts                                      |
 |-----------------------|-------------------------------------------------------|
-| Core Python           | f-strings, comprehensions, functions                  |
-| Numerical Computing   | NumPy                                                 |
-| Data Wrangling        | Pandas                                                |
-| Data Cleaning         | Imputation, standardization, IQR                      |
-| Visualization         | Matplotlib, Seaborn                                   |
-| Machine Learning      | Scikit-learn (Regression, Classification, Metrics)    |
-| Evaluation            | Confusion Matrix, Precision/Recall/F1, ROC-AUC, CV    |
-| Upcoming              | Ensemble methods, AI Agents, LLM workflows            |
+| **Language**          | Python 3.10+                                          |
+| **Data**              | Pandas, NumPy                                         |
+| **Visualization**     | Matplotlib, Seaborn                                   |
+| **Machine Learning**  | Scikit-learn (Linear/Logistic Regression, KNN, Trees) |
+| **Evaluation**        | Confusion Matrix, Precision/Recall/F1, ROC-AUC, CV    |
+| **Environment**       | Google Colab, Jupyter                                 |
 
 ---
 
 ## 📈 Learning Philosophy
 
-> "Start simple. Understand your data. Then improve."
+> *"Clean data is the foundation of every trustworthy insight.  
+> Start simple. Understand deeply. Then improve."*
 
 I treat every lab as production-quality work:
-- Clear and readable code
+- Clear, readable code
 - Proper documentation
-- Complete end-to-end pipelines
+- Complete pipelines (raw data → insight)
+- Honest evaluation of model strengths and weaknesses
+
+---
+
+## 🛠 How to Use This Repo
+
+1. Browse the labs in order (Foundation → ML Core)
+2. Open any notebook in Google Colab or Jupyter
+3. Run cells top-to-bottom — most are self-contained
+4. Datasets either load from public URLs or live in the `/data` folder
 
 ---
 
@@ -152,6 +239,6 @@ I treat every lab as production-quality work:
 **AI/ML Internship Program — Learning Log**  
 *Last updated: July 23, 2026*
 
-Built with ❤️ using Python, Scikit-learn, and continuous improvement.
+Built with ❤️, curiosity, and a lot of `Shift + Enter`
 
 </div>
