@@ -49,6 +49,7 @@ AIML-Internship-Arslan_Hashmi/
 ├── Lab03_Data_Cleaning_Preprocessing_ArslanHashmi.ipynb
 ├── Lab04_Data_Visualization_ArslanHashmi.ipynb
 ├── Lab06_Intro_to_Machine_Learning_ArslanHashmi.ipynb
+├── Lab07_Regression_Models_ArslanHashmi.ipynb
 ├── Assignment1_EDA_ArslanHashmi.ipynb
 │
 ├── data/
@@ -90,7 +91,16 @@ AIML-Internship-Arslan_Hashmi/
 - Train-test split (understanding overfitting prevention)
 - Feature scaling with `StandardScaler`
 - Complete data-preparation workflow ready for modeling
-- Fully completed practice exercises + 5 Lab Tasks
+
+### ✅ Lab 7 — Regression Models
+**Notebook:** [Lab07_Regression_Models_ArslanHashmi.ipynb](Lab07_Regression_Models_ArslanHashmi.ipynb)
+
+- Simple Linear Regression (single feature)
+- Multiple Linear Regression (multiple features)
+- Polynomial Regression (degree=2)
+- Evaluation metrics: MSE, RMSE, R² Score
+- Full-feature model on California Housing dataset
+- Coefficient analysis & model comparison
 
 ### ✅ Assignment 1 — Exploratory Data Analysis (NYC Airbnb)
 **Notebook:** [Assignment1_EDA_ArslanHashmi.ipynb](Assignment1_EDA_ArslanHashmi.ipynb)
@@ -109,8 +119,8 @@ AIML-Internship-Arslan_Hashmi/
 | Data Wrangling        | Pandas (filtering, groupby, missing values)           |
 | Data Cleaning         | Imputation, standardization, IQR outliers             |
 | Visualization         | Matplotlib, Seaborn                                   |
-| Machine Learning      | Scikit-learn (train-test split, StandardScaler)       |
-| Upcoming              | Model training, evaluation, AI Agents, LLM workflows  |
+| Machine Learning      | Scikit-learn (LinearRegression, train-test split, metrics) |
+| Upcoming              | Classification, AI Agents, LLM workflows              |
 
 ---
 
