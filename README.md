@@ -49,7 +49,9 @@ AIML-Internship-Arslan_Hashmi/
 ├── Lab03_Data_Cleaning_Preprocessing_ArslanHashmi.ipynb
 ├── Lab04_Data_Visualization_ArslanHashmi.ipynb
 ├── Lab06_Intro_to_Machine_Learning_ArslanHashmi.ipynb
+├── Lab07_Regression_Models_ArslanHashmi.ipynb
 ├── Lab08_Classification_Models_ArslanHashmi.ipynb
+├── Lab09_Model_Evaluation_Metrics_ArslanHashmi.ipynb
 ├── Assignment1_EDA_ArslanHashmi.ipynb
 │
 ├── data/
@@ -84,13 +86,25 @@ AIML-Internship-Arslan_Hashmi/
 
 - Train-test split, StandardScaler, Iris dataset preparation
 
+### ✅ Lab 7 — Regression Models
+**Notebook:** [Lab07_Regression_Models_ArslanHashmi.ipynb](Lab07_Regression_Models_ArslanHashmi.ipynb)
+
+- Simple, Multiple & Polynomial Linear Regression
+- MSE, RMSE, R² evaluation on California Housing dataset
+
 ### ✅ Lab 8 — Classification Models
 **Notebook:** [Lab08_Classification_Models_ArslanHashmi.ipynb](Lab08_Classification_Models_ArslanHashmi.ipynb)
 
 - Logistic Regression, K-Nearest Neighbors, Decision Trees
-- Accuracy comparison, hyperparameter tuning for KNN
-- Decision Tree visualization & interpretation
-- Fully completed practice exercises + 5 Lab Tasks
+- Accuracy comparison & hyperparameter tuning
+
+### ✅ Lab 9 — Model Evaluation & Metrics
+**Notebook:** [Lab09_Model_Evaluation_Metrics_ArslanHashmi.ipynb](Lab09_Model_Evaluation_Metrics_ArslanHashmi.ipynb)
+
+- Confusion Matrix, Precision, Recall, F1-Score
+- ROC Curve & AUC
+- Cross-Validation
+- Threshold analysis & multi-model comparison (LR, KNN, Decision Tree)
 
 ### ✅ Assignment 1 — Exploratory Data Analysis (NYC Airbnb)
 **Notebook:** [Assignment1_EDA_ArslanHashmi.ipynb](Assignment1_EDA_ArslanHashmi.ipynb)
@@ -108,8 +122,9 @@ AIML-Internship-Arslan_Hashmi/
 | Data Wrangling        | Pandas                                                |
 | Data Cleaning         | Imputation, standardization, IQR                      |
 | Visualization         | Matplotlib, Seaborn                                   |
-| Machine Learning      | Scikit-learn (Logistic Regression, KNN, Decision Tree)|
-| Upcoming              | Evaluation metrics, more models, AI Agents            |
+| Machine Learning      | Scikit-learn (Regression, Classification, Metrics)    |
+| Evaluation            | Confusion Matrix, Precision/Recall/F1, ROC-AUC, CV    |
+| Upcoming              | Ensemble methods, AI Agents, LLM workflows            |
 
 ---
 
