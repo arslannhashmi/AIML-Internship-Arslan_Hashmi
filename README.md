@@ -43,14 +43,15 @@ Week 1 ────────────────────────�
 │
 Week 2 ─────────────────────────────────────────────────
 │
-├─ 🟡 Lab 06 ─ Intro to Machine Learning
-├─ 🟡 Lab 07 ─ Regression Models
-├─ 🟡 Lab 08 ─ Classification Models
-├─ 🟡 Lab 09 ─ Model Evaluation & Metrics
+├─ 🟢 Lab 06 ─ Intro to Machine Learning
+├─ 🟢 Lab 07 ─ Regression Models
+├─ 🟢 Lab 08 ─ Classification Models
+├─ 🟢 Lab 09 ─ Model Evaluation & Metrics
 │
 Projects ────────────────────────────────────────────────
 │
-└─ 📝 Assignment 1 ─ NYC Airbnb EDA
+├─ 🟢 Assignment 1 ─ NYC Airbnb EDA
+└─ 🟢 Assignment 2 ─ Insurance Cost Prediction (End-to-End Regression)
 ```
 
 ---
@@ -79,6 +80,7 @@ Projects ───────────────────────�
 | # | Title | Focus | Run |
 |:-:|-------|-------|:---:|
 | **A1** | [NYC Airbnb Exploratory Data Analysis](Assignment1_EDA_ArslanHashmi.ipynb) | Full EDA pipeline • Feature engineering • Insights | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arslannhashmi/AIML-Internship-Arslan_Hashmi/blob/main/Assignment1_EDA_ArslanHashmi.ipynb) |
+| **A2** | [Insurance Cost Prediction](Assignment2_Insurance_Cost_Prediction_ArslanHashmi.ipynb) | End-to-end regression • Feature engineering • Model comparison • Deployment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arslannhashmi/AIML-Internship-Arslan_Hashmi/blob/main/Assignment2_Insurance_Cost_Prediction_ArslanHashmi.ipynb) |
 
 ---
 
@@ -90,10 +92,10 @@ NumPy & Vectorization    ██████████  100%
 Pandas & Data Wrangling  ██████████  100%
 Data Cleaning            █████████░   90%
 Visualization            ████████░░   80%
-Regression Models        ████████░░   80%
+Regression Models        ██████████  100%
 Classification Models    ████████░░   80%
 Model Evaluation         ████████░░   80%
-Feature Engineering      ███████░░░   70%
+Feature Engineering      ████████░░   80%
 Ensemble Methods         ███░░░░░░░   30%  ← Next up
 ```
 
@@ -166,7 +168,7 @@ Computer Science • NUTECH • Pakistan
 
 <br/>
 
-*Last updated: July 23, 2026*  
+*Last updated: August 02, 2026*  
 Built with curiosity, discipline, and a lot of `Shift + Enter`
 
 </div>
