@@ -1,0 +1,321 @@
+[
+  {
+    "filename": "phase6_resume_01_data_scientist.pdf",
+    "name": "Aisha Rahman",
+    "profile": "data_scientist",
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "SQL",
+      "Machine Learning",
+      "Scikit-learn",
+      "Statistics",
+      "Feature Engineering",
+      "XGBoost",
+      "Data Visualization"
+    ],
+    "split": "train"
+  },
+  {
+    "filename": "phase6_resume_02_data_engineer.pdf",
+    "name": "Daniel Ortiz",
+    "profile": "data_engineer",
+    "skills": [
+      "Python",
+      "SQL",
+      "PostgreSQL",
+      "Apache Spark",
+      "Apache Kafka",
+      "ETL",
+      "Data Warehousing",
+      "Docker",
+      "AWS",
+      "Git"
+    ],
+    "split": "train"
+  },
+  {
+    "filename": "phase6_resume_03_ml_engineer.pdf",
+    "name": "Mei Tanaka",
+    "profile": "ml_engineer",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "PyTorch",
+      "TensorFlow",
+      "Model Deployment",
+      "Docker",
+      "FastAPI",
+      "Git",
+      "Linux Administration"
+    ],
+    "split": "train"
+  },
+  {
+    "filename": "phase6_resume_04_analytics.pdf",
+    "name": "Noah Williams",
+    "profile": "analytics",
+    "skills": [
+      "R",
+      "SQL",
+      "Statistics",
+      "Probability Theory",
+      "Pandas",
+      "Data Visualization",
+      "Time Series Analysis",
+      "Git",
+      "PostgreSQL"
+    ],
+    "split": "train"
+  },
+  {
+    "filename": "phase6_resume_05_nlp.pdf",
+    "name": "Sofia Petrova",
+    "profile": "nlp",
+    "skills": [
+      "Python",
+      "Natural Language Processing",
+      "Machine Learning",
+      "Scikit-learn",
+      "PyTorch",
+      "Deep Learning",
+      "Feature Engineering",
+      "SQL",
+      "Git"
+    ],
+    "split": "train"
+  },
+  {
+    "filename": "phase6_resume_06_frontend.pdf",
+    "name": "Omar Khan",
+    "profile": "frontend",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Next.js",
+      "HTML",
+      "CSS",
+      "Tailwind CSS",
+      "Redux",
+      "Jest",
+      "Git"
+    ],
+    "split": "train"
+  },
+  {
+    "filename": "phase6_resume_07_web_platform.pdf",
+    "name": "Chloe Martin",
+    "profile": "web_platform",
+    "skills": [
+      "JavaScript",
+      "Vue.js",
+      "HTML",
+      "CSS",
+      "SASS",
+      "Webpack",
+      "GraphQL",
+      "Node.js",
+      "Express.js",
+      "Jest"
+    ],
+    "split": "train"
+  },
+  {
+    "filename": "phase6_resume_08_full_stack.pdf",
+    "name": "Ethan Brooks",
+    "profile": "full_stack",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "REST API Design",
+      "PostgreSQL",
+      "Docker",
+      "Git",
+      "Unit Testing"
+    ],
+    "split": "train"
+  },
+  {
+    "filename": "phase6_resume_09_mobile.pdf",
+    "name": "Fatima Ali",
+    "profile": "mobile",
+    "skills": [
+      "Java",
+      "Android Development",
+      "React Native",
+      "JavaScript",
+      "Mobile UI Design",
+      "REST API Design",
+      "Git",
+      "Unit Testing",
+      "Debugging"
+    ],
+    "split": "train"
+  },
+  {
+    "filename": "phase6_resume_10_backend.pdf",
+    "name": "Lucas Silva",
+    "profile": "backend",
+    "skills": [
+      "Python",
+      "Django",
+      "Flask",
+      "FastAPI",
+      "REST API Design",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "API Authentication",
+      "Git"
+    ],
+    "split": "train"
+  },
+  {
+    "filename": "phase6_resume_11_devops.pdf",
+    "name": "Grace Lee",
+    "profile": "devops",
+    "skills": [
+      "Linux Administration",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "AWS",
+      "CI/CD",
+      "Jenkins",
+      "Prometheus",
+      "Grafana",
+      "Ansible"
+    ],
+    "split": "train"
+  },
+  {
+    "filename": "phase6_resume_12_cloud.pdf",
+    "name": "Hassan Ahmed",
+    "profile": "cloud",
+    "skills": [
+      "AWS",
+      "GCP",
+      "Azure",
+      "Terraform",
+      "Kubernetes",
+      "Docker",
+      "Microservices",
+      "Load Balancing",
+      "Nginx",
+      "Linux Administration"
+    ],
+    "split": "train"
+  },
+  {
+    "filename": "phase6_resume_13_sre.pdf",
+    "name": "Emma Johnson",
+    "profile": "sre",
+    "skills": [
+      "Python",
+      "Go",
+      "Linux Administration",
+      "Docker",
+      "Kubernetes",
+      "Prometheus",
+      "Grafana",
+      "Nginx",
+      "Load Balancing",
+      "Git"
+    ],
+    "split": "train"
+  },
+  {
+    "filename": "phase6_resume_14_security.pdf",
+    "name": "Yusuf Malik",
+    "profile": "security",
+    "skills": [
+      "Python",
+      "Cybersecurity",
+      "OAuth/JWT",
+      "HTTPS/TLS",
+      "Penetration Testing",
+      "OWASP",
+      "Linux Administration",
+      "SQL",
+      "Git"
+    ],
+    "split": "train"
+  },
+  {
+    "filename": "phase6_resume_15_software.pdf",
+    "name": "Isabella Rossi",
+    "profile": "software",
+    "skills": [
+      "Java",
+      "Object-Oriented Programming",
+      "Algorithms & Data Structures",
+      "Design Patterns",
+      "Unit Testing",
+      "Integration Testing",
+      "Code Review",
+      "Git",
+      "SQL"
+    ],
+    "split": "heldout"
+  },
+  {
+    "filename": "phase6_resume_16_api.pdf",
+    "name": "William Chen",
+    "profile": "api",
+    "skills": [
+      "Java",
+      "Object-Oriented Programming",
+      "REST API Design",
+      "gRPC",
+      "WebSockets",
+      "Docker",
+      "Kubernetes",
+      "SQL",
+      "Database Design",
+      "Git"
+    ],
+    "split": "heldout"
+  },
+  {
+    "filename": "phase6_resume_17_data_platform.pdf",
+    "name": "Nadia Hassan",
+    "profile": "data_platform",
+    "skills": [
+      "Python",
+      "Apache Airflow",
+      "dbt",
+      "ETL",
+      "Data Warehousing",
+      "SQL",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "AWS"
+    ],
+    "split": "heldout"
+  },
+  {
+    "filename": "phase6_resume_18_qa.pdf",
+    "name": "Jack Taylor",
+    "profile": "qa",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Jest",
+      "Unit Testing",
+      "Integration Testing",
+      "Debugging",
+      "GitHub Actions",
+      "CI/CD",
+      "Git",
+      "Agile/Scrum"
+    ],
+    "split": "heldout"
+  }
+]
