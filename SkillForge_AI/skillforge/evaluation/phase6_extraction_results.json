@@ -1,0 +1,182 @@
+{
+  "evaluation_type": "synthetic held-out skill-level micro evaluation",
+  "heldout_resumes": 4,
+  "heldout_ground_truth_mentions": 39,
+  "training": {
+    "model_name": "distilbert-base-uncased",
+    "epochs": 3,
+    "training_examples": 70,
+    "loss_by_epoch": [
+      0.1931835584756401,
+      0.0733108561899927,
+      0.04826043359935284
+    ],
+    "max_length": 256
+  },
+  "aggregate_micro_metrics": {
+    "dictionary": {
+      "true_positive": 39,
+      "false_positive": 0,
+      "false_negative": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "spacy": {
+      "true_positive": 39,
+      "false_positive": 0,
+      "false_negative": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "distilbert": {
+      "true_positive": 35,
+      "false_positive": 0,
+      "false_negative": 4,
+      "precision": 1.0,
+      "recall": 0.8974,
+      "f1": 0.9459
+    }
+  },
+  "per_resume": [
+    {
+      "filename": "phase6_resume_15_software.pdf",
+      "expected_skill_count": 9,
+      "stages": {
+        "dictionary": {
+          "predicted_skill_count": 9,
+          "true_positive": 9,
+          "false_positive": 0,
+          "false_negative": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "spacy": {
+          "predicted_skill_count": 9,
+          "true_positive": 9,
+          "false_positive": 0,
+          "false_negative": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "distilbert": {
+          "predicted_skill_count": 7,
+          "true_positive": 7,
+          "false_positive": 0,
+          "false_negative": 2,
+          "precision": 1.0,
+          "recall": 0.7778,
+          "f1": 0.875
+        }
+      }
+    },
+    {
+      "filename": "phase6_resume_16_api.pdf",
+      "expected_skill_count": 10,
+      "stages": {
+        "dictionary": {
+          "predicted_skill_count": 10,
+          "true_positive": 10,
+          "false_positive": 0,
+          "false_negative": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "spacy": {
+          "predicted_skill_count": 10,
+          "true_positive": 10,
+          "false_positive": 0,
+          "false_negative": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "distilbert": {
+          "predicted_skill_count": 9,
+          "true_positive": 9,
+          "false_positive": 0,
+          "false_negative": 1,
+          "precision": 1.0,
+          "recall": 0.9,
+          "f1": 0.9474
+        }
+      }
+    },
+    {
+      "filename": "phase6_resume_17_data_platform.pdf",
+      "expected_skill_count": 10,
+      "stages": {
+        "dictionary": {
+          "predicted_skill_count": 10,
+          "true_positive": 10,
+          "false_positive": 0,
+          "false_negative": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "spacy": {
+          "predicted_skill_count": 10,
+          "true_positive": 10,
+          "false_positive": 0,
+          "false_negative": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "distilbert": {
+          "predicted_skill_count": 10,
+          "true_positive": 10,
+          "false_positive": 0,
+          "false_negative": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        }
+      }
+    },
+    {
+      "filename": "phase6_resume_18_qa.pdf",
+      "expected_skill_count": 10,
+      "stages": {
+        "dictionary": {
+          "predicted_skill_count": 10,
+          "true_positive": 10,
+          "false_positive": 0,
+          "false_negative": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "spacy": {
+          "predicted_skill_count": 10,
+          "true_positive": 10,
+          "false_positive": 0,
+          "false_negative": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "distilbert": {
+          "predicted_skill_count": 9,
+          "true_positive": 9,
+          "false_positive": 0,
+          "false_negative": 1,
+          "precision": 1.0,
+          "recall": 0.9,
+          "f1": 0.9474
+        }
+      }
+    }
+  ],
+  "winner_by_f1": "dictionary",
+  "limitations": [
+    "Ground truth is synthetic and skill-level, not token-level annotation from real resumes.",
+    "DistilBERT learned weak labels produced by the Phase 5 dictionary matcher.",
+    "The four held-out resumes are generated from the same controlled corpus family."
+  ]
+}
