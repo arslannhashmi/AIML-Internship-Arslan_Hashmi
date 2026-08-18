@@ -1,0 +1,312 @@
+[
+  {
+    "from_skill_id": 1,
+    "to_skill_id": 13,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 1,
+    "to_skill_id": 14,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 13,
+    "to_skill_id": 14,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 1,
+    "to_skill_id": 15,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 13,
+    "to_skill_id": 15,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 14,
+    "to_skill_id": 15,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 15,
+    "to_skill_id": 21,
+    "relation_type": "related"
+  },
+  {
+    "from_skill_id": 1,
+    "to_skill_id": 16,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 13,
+    "to_skill_id": 16,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 21,
+    "to_skill_id": 16,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 1,
+    "to_skill_id": 17,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 13,
+    "to_skill_id": 17,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 21,
+    "to_skill_id": 17,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 16,
+    "to_skill_id": 18,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 15,
+    "to_skill_id": 19,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 15,
+    "to_skill_id": 20,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 1,
+    "to_skill_id": 21,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 27,
+    "to_skill_id": 21,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 29,
+    "to_skill_id": 21,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 21,
+    "to_skill_id": 22,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 17,
+    "to_skill_id": 22,
+    "relation_type": "related"
+  },
+  {
+    "from_skill_id": 22,
+    "to_skill_id": 23,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 21,
+    "to_skill_id": 23,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 22,
+    "to_skill_id": 24,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 29,
+    "to_skill_id": 24,
+    "relation_type": "related"
+  },
+  {
+    "from_skill_id": 22,
+    "to_skill_id": 32,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 14,
+    "to_skill_id": 25,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 21,
+    "to_skill_id": 25,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 21,
+    "to_skill_id": 26,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 65,
+    "to_skill_id": 26,
+    "relation_type": "related"
+  },
+  {
+    "from_skill_id": 27,
+    "to_skill_id": 28,
+    "relation_type": "related"
+  },
+  {
+    "from_skill_id": 27,
+    "to_skill_id": 31,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 14,
+    "to_skill_id": 31,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 1,
+    "to_skill_id": 30,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 14,
+    "to_skill_id": 30,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 4,
+    "to_skill_id": 5,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 4,
+    "to_skill_id": 45,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 43,
+    "to_skill_id": 45,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 44,
+    "to_skill_id": 45,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 4,
+    "to_skill_id": 46,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 5,
+    "to_skill_id": 47,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 45,
+    "to_skill_id": 48,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 45,
+    "to_skill_id": 53,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 4,
+    "to_skill_id": 55,
+    "relation_type": "related"
+  },
+  {
+    "from_skill_id": 55,
+    "to_skill_id": 56,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 1,
+    "to_skill_id": 57,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 1,
+    "to_skill_id": 58,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 1,
+    "to_skill_id": 59,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 33,
+    "to_skill_id": 34,
+    "relation_type": "related"
+  },
+  {
+    "from_skill_id": 33,
+    "to_skill_id": 37,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 1,
+    "to_skill_id": 37,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 1,
+    "to_skill_id": 39,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 65,
+    "to_skill_id": 66,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 80,
+    "to_skill_id": 71,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 71,
+    "to_skill_id": 73,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 71,
+    "to_skill_id": 72,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 74,
+    "to_skill_id": 75,
+    "relation_type": "related"
+  },
+  {
+    "from_skill_id": 74,
+    "to_skill_id": 76,
+    "relation_type": "related"
+  },
+  {
+    "from_skill_id": 60,
+    "to_skill_id": 93,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 60,
+    "to_skill_id": 63,
+    "relation_type": "related"
+  },
+  {
+    "from_skill_id": 45,
+    "to_skill_id": 99,
+    "relation_type": "prerequisite"
+  },
+  {
+    "from_skill_id": 4,
+    "to_skill_id": 99,
+    "relation_type": "prerequisite"
+  }
+]
