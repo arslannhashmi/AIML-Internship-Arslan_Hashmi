@@ -1,0 +1,3 @@
+# Limitations
+
+The career match score and gap analysis measure different axes: the career match score reflects skill coverage, meaning whether a skill is present in the learner profile, while gap analysis separately scores the proficiency deficit against each career requirement's preferred level. These measures are intentionally different and can diverge; a learner may have high career-match coverage while still having meaningful depth gaps in the proficiency of those skills.
