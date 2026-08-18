@@ -1,0 +1,11 @@
+{
+  "model_name": "distilbert-base-uncased",
+  "epochs": 3,
+  "training_examples": 70,
+  "loss_by_epoch": [
+    0.1931835584756401,
+    0.0733108561899927,
+    0.04826043359935284
+  ],
+  "max_length": 256
+}
