@@ -1,0 +1,30 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "positive_scores": [
+    0.3727,
+    0.9414,
+    0.8904,
+    0.8989,
+    0.4699,
+    0.342,
+    0.8184,
+    1.0
+  ],
+  "negative_scores": [
+    0.3226,
+    0.0673,
+    0.0917,
+    0.1084,
+    0.264,
+    0.1114,
+    0.1249,
+    0.2022
+  ],
+  "positive_min": 0.342,
+  "positive_max": 1.0,
+  "negative_min": 0.0673,
+  "negative_max": 0.3226,
+  "chosen_threshold": 0.3323,
+  "calibration_f1": 1.0,
+  "reasoning": "Threshold chosen by the candidate cutoff with the best F1 on labelled equivalent/different pairs, not by an arbitrary constant."
+}
