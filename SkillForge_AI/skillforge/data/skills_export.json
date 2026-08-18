@@ -1,0 +1,810 @@
+[
+  {
+    "skill_id": 1,
+    "name": "Python",
+    "category": "Programming Languages",
+    "subcategory": "General Purpose",
+    "difficulty": 2,
+    "description": "High-level, interpreted language widely used in data science, ML, and backend dev."
+  },
+  {
+    "skill_id": 2,
+    "name": "R",
+    "category": "Programming Languages",
+    "subcategory": "Statistical",
+    "difficulty": 3,
+    "description": "Statistical computing language favoured in academia and data analysis."
+  },
+  {
+    "skill_id": 3,
+    "name": "Java",
+    "category": "Programming Languages",
+    "subcategory": "General Purpose",
+    "difficulty": 2,
+    "description": "Strongly-typed, object-oriented language used in enterprise software."
+  },
+  {
+    "skill_id": 4,
+    "name": "JavaScript",
+    "category": "Programming Languages",
+    "subcategory": "Web",
+    "difficulty": 2,
+    "description": "Primary scripting language of the web; runs in browsers and on Node.js."
+  },
+  {
+    "skill_id": 5,
+    "name": "TypeScript",
+    "category": "Programming Languages",
+    "subcategory": "Web",
+    "difficulty": 3,
+    "description": "Statically-typed superset of JavaScript that compiles to plain JS."
+  },
+  {
+    "skill_id": 6,
+    "name": "C++",
+    "category": "Programming Languages",
+    "subcategory": "Systems",
+    "difficulty": 4,
+    "description": "High-performance systems language with low-level memory control."
+  },
+  {
+    "skill_id": 7,
+    "name": "Go",
+    "category": "Programming Languages",
+    "subcategory": "Systems",
+    "difficulty": 3,
+    "description": "Compiled, statically-typed language from Google; designed for concurrency."
+  },
+  {
+    "skill_id": 8,
+    "name": "Rust",
+    "category": "Programming Languages",
+    "subcategory": "Systems",
+    "difficulty": 5,
+    "description": "Memory-safe systems language with no garbage collector."
+  },
+  {
+    "skill_id": 9,
+    "name": "Scala",
+    "category": "Programming Languages",
+    "subcategory": "Functional/JVM",
+    "difficulty": 4,
+    "description": "JVM language blending OOP and functional programming; used in big-data."
+  },
+  {
+    "skill_id": 10,
+    "name": "MATLAB",
+    "category": "Programming Languages",
+    "subcategory": "Scientific",
+    "difficulty": 3,
+    "description": "Numeric computing environment widely used in signal processing and engineering."
+  },
+  {
+    "skill_id": 11,
+    "name": "Bash Scripting",
+    "category": "Programming Languages",
+    "subcategory": "Scripting",
+    "difficulty": 2,
+    "description": "Unix shell scripting for automation, file processing, and system admin tasks."
+  },
+  {
+    "skill_id": 12,
+    "name": "Swift",
+    "category": "Programming Languages",
+    "subcategory": "Mobile",
+    "difficulty": 3,
+    "description": "Apple's language for iOS/macOS app development."
+  },
+  {
+    "skill_id": 13,
+    "name": "NumPy",
+    "category": "Data Science & ML",
+    "subcategory": "Numerical Computing",
+    "difficulty": 2,
+    "description": "Fundamental Python library for N-dimensional arrays and linear algebra."
+  },
+  {
+    "skill_id": 14,
+    "name": "Pandas",
+    "category": "Data Science & ML",
+    "subcategory": "Data Manipulation",
+    "difficulty": 2,
+    "description": "Python library for tabular data manipulation using DataFrames."
+  },
+  {
+    "skill_id": 15,
+    "name": "Scikit-learn",
+    "category": "Data Science & ML",
+    "subcategory": "Classical ML",
+    "difficulty": 3,
+    "description": "Python ML library implementing classical algorithms with a uniform API."
+  },
+  {
+    "skill_id": 16,
+    "name": "TensorFlow",
+    "category": "Data Science & ML",
+    "subcategory": "Deep Learning",
+    "difficulty": 4,
+    "description": "Google's end-to-end open-source deep-learning framework."
+  },
+  {
+    "skill_id": 17,
+    "name": "PyTorch",
+    "category": "Data Science & ML",
+    "subcategory": "Deep Learning",
+    "difficulty": 4,
+    "description": "Meta's flexible, dynamic deep-learning framework popular in research."
+  },
+  {
+    "skill_id": 18,
+    "name": "Keras",
+    "category": "Data Science & ML",
+    "subcategory": "Deep Learning",
+    "difficulty": 3,
+    "description": "High-level neural-network API; runs on top of TensorFlow."
+  },
+  {
+    "skill_id": 19,
+    "name": "XGBoost",
+    "category": "Data Science & ML",
+    "subcategory": "Ensemble Methods",
+    "difficulty": 3,
+    "description": "Optimised gradient-boosting library known for tabular-data performance."
+  },
+  {
+    "skill_id": 20,
+    "name": "LightGBM",
+    "category": "Data Science & ML",
+    "subcategory": "Ensemble Methods",
+    "difficulty": 3,
+    "description": "Microsoft's fast gradient-boosting framework using histogram-based algorithm."
+  },
+  {
+    "skill_id": 21,
+    "name": "Machine Learning",
+    "category": "Data Science & ML",
+    "subcategory": "Core Concepts",
+    "difficulty": 3,
+    "description": "Discipline of building systems that learn patterns from data."
+  },
+  {
+    "skill_id": 22,
+    "name": "Deep Learning",
+    "category": "Data Science & ML",
+    "subcategory": "Core Concepts",
+    "difficulty": 4,
+    "description": "Subset of ML using multi-layer neural networks to learn representations."
+  },
+  {
+    "skill_id": 23,
+    "name": "Natural Language Processing",
+    "category": "Data Science & ML",
+    "subcategory": "NLP",
+    "difficulty": 4,
+    "description": "Field of AI enabling machines to understand and generate human language."
+  },
+  {
+    "skill_id": 24,
+    "name": "Computer Vision",
+    "category": "Data Science & ML",
+    "subcategory": "Vision",
+    "difficulty": 4,
+    "description": "Field of AI enabling machines to interpret and analyse visual data."
+  },
+  {
+    "skill_id": 25,
+    "name": "Feature Engineering",
+    "category": "Data Science & ML",
+    "subcategory": "Methodology",
+    "difficulty": 3,
+    "description": "Process of transforming raw data into informative features for ML models."
+  },
+  {
+    "skill_id": 26,
+    "name": "Model Deployment",
+    "category": "Data Science & ML",
+    "subcategory": "MLOps",
+    "difficulty": 4,
+    "description": "Packaging, serving, monitoring, and versioning ML models in production."
+  },
+  {
+    "skill_id": 27,
+    "name": "Statistics",
+    "category": "Data Science & ML",
+    "subcategory": "Mathematics",
+    "difficulty": 3,
+    "description": "Mathematical foundation for data analysis: distributions, inference, testing."
+  },
+  {
+    "skill_id": 28,
+    "name": "Probability Theory",
+    "category": "Data Science & ML",
+    "subcategory": "Mathematics",
+    "difficulty": 3,
+    "description": "Formal study of random phenomena; underpins all probabilistic ML models."
+  },
+  {
+    "skill_id": 29,
+    "name": "Linear Algebra",
+    "category": "Data Science & ML",
+    "subcategory": "Mathematics",
+    "difficulty": 3,
+    "description": "Study of vectors, matrices, and linear maps; core to neural networks."
+  },
+  {
+    "skill_id": 30,
+    "name": "Data Visualization",
+    "category": "Data Science & ML",
+    "subcategory": "Reporting",
+    "difficulty": 2,
+    "description": "Communicating insights through charts, dashboards, and interactive plots."
+  },
+  {
+    "skill_id": 31,
+    "name": "Time Series Analysis",
+    "category": "Data Science & ML",
+    "subcategory": "Specialisation",
+    "difficulty": 4,
+    "description": "Techniques for modelling and forecasting temporally-ordered data."
+  },
+  {
+    "skill_id": 32,
+    "name": "Reinforcement Learning",
+    "category": "Data Science & ML",
+    "subcategory": "Core Concepts",
+    "difficulty": 5,
+    "description": "Training agents via reward signals through interaction with an environment."
+  },
+  {
+    "skill_id": 33,
+    "name": "SQL",
+    "category": "Data Engineering",
+    "subcategory": "Query Language",
+    "difficulty": 2,
+    "description": "Declarative language for relational database querying and manipulation."
+  },
+  {
+    "skill_id": 34,
+    "name": "PostgreSQL",
+    "category": "Data Engineering",
+    "subcategory": "Relational Database",
+    "difficulty": 2,
+    "description": "Feature-rich, ACID-compliant open-source relational database system."
+  },
+  {
+    "skill_id": 35,
+    "name": "MongoDB",
+    "category": "Data Engineering",
+    "subcategory": "NoSQL Database",
+    "difficulty": 2,
+    "description": "Document-oriented NoSQL database storing data as BSON documents."
+  },
+  {
+    "skill_id": 36,
+    "name": "Redis",
+    "category": "Data Engineering",
+    "subcategory": "In-Memory Store",
+    "difficulty": 2,
+    "description": "In-memory key-value store used for caching and pub/sub messaging."
+  },
+  {
+    "skill_id": 37,
+    "name": "Apache Spark",
+    "category": "Data Engineering",
+    "subcategory": "Distributed Computing",
+    "difficulty": 4,
+    "description": "Unified analytics engine for large-scale data processing and ML."
+  },
+  {
+    "skill_id": 38,
+    "name": "Apache Kafka",
+    "category": "Data Engineering",
+    "subcategory": "Streaming",
+    "difficulty": 4,
+    "description": "Distributed event-streaming platform for high-throughput data pipelines."
+  },
+  {
+    "skill_id": 39,
+    "name": "Apache Airflow",
+    "category": "Data Engineering",
+    "subcategory": "Workflow Orchestration",
+    "difficulty": 3,
+    "description": "Platform for programmatically authoring, scheduling, and monitoring pipelines."
+  },
+  {
+    "skill_id": 40,
+    "name": "dbt",
+    "category": "Data Engineering",
+    "subcategory": "Data Transformation",
+    "difficulty": 3,
+    "description": "Data-build tool that transforms raw data in the warehouse using SQL + Jinja."
+  },
+  {
+    "skill_id": 41,
+    "name": "ETL",
+    "category": "Data Engineering",
+    "subcategory": "Methodology",
+    "difficulty": 2,
+    "description": "Extract-Transform-Load: foundational pattern for moving data between systems."
+  },
+  {
+    "skill_id": 42,
+    "name": "Data Warehousing",
+    "category": "Data Engineering",
+    "subcategory": "Architecture",
+    "difficulty": 3,
+    "description": "Design and operation of centralised analytic data stores (e.g. Redshift, BigQuery)."
+  },
+  {
+    "skill_id": 43,
+    "name": "HTML",
+    "category": "Web Frontend",
+    "subcategory": "Markup",
+    "difficulty": 1,
+    "description": "HyperText Markup Language: the structural layer of web pages."
+  },
+  {
+    "skill_id": 44,
+    "name": "CSS",
+    "category": "Web Frontend",
+    "subcategory": "Styling",
+    "difficulty": 1,
+    "description": "Cascading Style Sheets: the visual presentation layer of web pages."
+  },
+  {
+    "skill_id": 45,
+    "name": "React",
+    "category": "Web Frontend",
+    "subcategory": "Framework",
+    "difficulty": 3,
+    "description": "Facebook's component-based UI library for building interactive web UIs."
+  },
+  {
+    "skill_id": 46,
+    "name": "Vue.js",
+    "category": "Web Frontend",
+    "subcategory": "Framework",
+    "difficulty": 2,
+    "description": "Progressive JavaScript framework for building user interfaces."
+  },
+  {
+    "skill_id": 47,
+    "name": "Angular",
+    "category": "Web Frontend",
+    "subcategory": "Framework",
+    "difficulty": 3,
+    "description": "Google's full-featured TypeScript-based front-end application framework."
+  },
+  {
+    "skill_id": 48,
+    "name": "Next.js",
+    "category": "Web Frontend",
+    "subcategory": "Framework",
+    "difficulty": 3,
+    "description": "React meta-framework with file-based routing, SSR, and SSG support."
+  },
+  {
+    "skill_id": 49,
+    "name": "Tailwind CSS",
+    "category": "Web Frontend",
+    "subcategory": "Styling",
+    "difficulty": 2,
+    "description": "Utility-first CSS framework for rapidly building custom user interfaces."
+  },
+  {
+    "skill_id": 50,
+    "name": "GraphQL",
+    "category": "Web Frontend",
+    "subcategory": "API Protocol",
+    "difficulty": 3,
+    "description": "Query language for APIs giving clients control over the data they fetch."
+  },
+  {
+    "skill_id": 51,
+    "name": "Webpack",
+    "category": "Web Frontend",
+    "subcategory": "Build Tools",
+    "difficulty": 3,
+    "description": "Module bundler that compiles JavaScript applications and their assets."
+  },
+  {
+    "skill_id": 52,
+    "name": "Jest",
+    "category": "Web Frontend",
+    "subcategory": "Testing",
+    "difficulty": 2,
+    "description": "JavaScript testing framework with a focus on simplicity."
+  },
+  {
+    "skill_id": 53,
+    "name": "Redux",
+    "category": "Web Frontend",
+    "subcategory": "State Management",
+    "difficulty": 3,
+    "description": "Predictable state-management container for JavaScript applications."
+  },
+  {
+    "skill_id": 54,
+    "name": "SASS",
+    "category": "Web Frontend",
+    "subcategory": "Styling",
+    "difficulty": 2,
+    "description": "CSS preprocessor adding variables, nesting, and mixins to stylesheets."
+  },
+  {
+    "skill_id": 55,
+    "name": "Node.js",
+    "category": "Web Backend",
+    "subcategory": "Runtime",
+    "difficulty": 2,
+    "description": "JavaScript runtime built on Chrome's V8 engine for server-side execution."
+  },
+  {
+    "skill_id": 56,
+    "name": "Express.js",
+    "category": "Web Backend",
+    "subcategory": "Framework",
+    "difficulty": 2,
+    "description": "Minimal Node.js web application framework for REST APIs."
+  },
+  {
+    "skill_id": 57,
+    "name": "Django",
+    "category": "Web Backend",
+    "subcategory": "Framework",
+    "difficulty": 3,
+    "description": "Batteries-included Python web framework with built-in ORM and admin UI."
+  },
+  {
+    "skill_id": 58,
+    "name": "Flask",
+    "category": "Web Backend",
+    "subcategory": "Framework",
+    "difficulty": 2,
+    "description": "Lightweight Python WSGI micro-framework for small to medium web apps."
+  },
+  {
+    "skill_id": 59,
+    "name": "FastAPI",
+    "category": "Web Backend",
+    "subcategory": "Framework",
+    "difficulty": 3,
+    "description": "Modern, async Python API framework with automatic OpenAPI docs."
+  },
+  {
+    "skill_id": 60,
+    "name": "REST API Design",
+    "category": "Web Backend",
+    "subcategory": "Methodology",
+    "difficulty": 2,
+    "description": "Principles for designing stateless, resource-oriented HTTP APIs."
+  },
+  {
+    "skill_id": 61,
+    "name": "Microservices",
+    "category": "Web Backend",
+    "subcategory": "Architecture",
+    "difficulty": 4,
+    "description": "Architectural style structuring an application as independently deployable services."
+  },
+  {
+    "skill_id": 62,
+    "name": "API Authentication",
+    "category": "Web Backend",
+    "subcategory": "Security",
+    "difficulty": 3,
+    "description": "Mechanisms for securing APIs: API keys, OAuth 2.0, JWT, sessions."
+  },
+  {
+    "skill_id": 63,
+    "name": "gRPC",
+    "category": "Web Backend",
+    "subcategory": "API Protocol",
+    "difficulty": 4,
+    "description": "High-performance RPC framework from Google using Protocol Buffers."
+  },
+  {
+    "skill_id": 64,
+    "name": "WebSockets",
+    "category": "Web Backend",
+    "subcategory": "Real-time",
+    "difficulty": 3,
+    "description": "Protocol for full-duplex communication between client and server."
+  },
+  {
+    "skill_id": 65,
+    "name": "Docker",
+    "category": "DevOps & Cloud",
+    "subcategory": "Containerisation",
+    "difficulty": 3,
+    "description": "Platform for building, running, and shipping applications in containers."
+  },
+  {
+    "skill_id": 66,
+    "name": "Kubernetes",
+    "category": "DevOps & Cloud",
+    "subcategory": "Container Orchestration",
+    "difficulty": 4,
+    "description": "Open-source system for automating deployment, scaling, and management of containers."
+  },
+  {
+    "skill_id": 67,
+    "name": "Terraform",
+    "category": "DevOps & Cloud",
+    "subcategory": "Infrastructure as Code",
+    "difficulty": 3,
+    "description": "Open-source IaC tool for declarative provisioning of cloud resources."
+  },
+  {
+    "skill_id": 68,
+    "name": "AWS",
+    "category": "DevOps & Cloud",
+    "subcategory": "Cloud Platform",
+    "difficulty": 3,
+    "description": "Amazon Web Services: the leading public cloud platform."
+  },
+  {
+    "skill_id": 69,
+    "name": "GCP",
+    "category": "DevOps & Cloud",
+    "subcategory": "Cloud Platform",
+    "difficulty": 3,
+    "description": "Google Cloud Platform: Google's suite of cloud computing services."
+  },
+  {
+    "skill_id": 70,
+    "name": "Azure",
+    "category": "DevOps & Cloud",
+    "subcategory": "Cloud Platform",
+    "difficulty": 3,
+    "description": "Microsoft Azure: cloud platform with strong enterprise/hybrid offerings."
+  },
+  {
+    "skill_id": 71,
+    "name": "CI/CD",
+    "category": "DevOps & Cloud",
+    "subcategory": "Automation",
+    "difficulty": 3,
+    "description": "Continuous Integration / Continuous Delivery: automating build, test, deploy."
+  },
+  {
+    "skill_id": 72,
+    "name": "Jenkins",
+    "category": "DevOps & Cloud",
+    "subcategory": "CI/CD Tools",
+    "difficulty": 3,
+    "description": "Open-source automation server for building CI/CD pipelines."
+  },
+  {
+    "skill_id": 73,
+    "name": "GitHub Actions",
+    "category": "DevOps & Cloud",
+    "subcategory": "CI/CD Tools",
+    "difficulty": 2,
+    "description": "GitHub's integrated CI/CD platform using workflow YAML files."
+  },
+  {
+    "skill_id": 74,
+    "name": "Linux Administration",
+    "category": "DevOps & Cloud",
+    "subcategory": "Systems",
+    "difficulty": 3,
+    "description": "Operating, configuring, and troubleshooting Linux-based servers."
+  },
+  {
+    "skill_id": 75,
+    "name": "Ansible",
+    "category": "DevOps & Cloud",
+    "subcategory": "Configuration Management",
+    "difficulty": 3,
+    "description": "Agentless IT automation and configuration-management tool."
+  },
+  {
+    "skill_id": 76,
+    "name": "Prometheus",
+    "category": "DevOps & Cloud",
+    "subcategory": "Monitoring",
+    "difficulty": 3,
+    "description": "Open-source systems monitoring and alerting toolkit."
+  },
+  {
+    "skill_id": 77,
+    "name": "Nginx",
+    "category": "DevOps & Cloud",
+    "subcategory": "Web Server",
+    "difficulty": 2,
+    "description": "High-performance web server and reverse proxy widely used in deployments."
+  },
+  {
+    "skill_id": 78,
+    "name": "Grafana",
+    "category": "DevOps & Cloud",
+    "subcategory": "Monitoring",
+    "difficulty": 2,
+    "description": "Open-source platform for monitoring and observability dashboards."
+  },
+  {
+    "skill_id": 79,
+    "name": "Load Balancing",
+    "category": "DevOps & Cloud",
+    "subcategory": "Infrastructure",
+    "difficulty": 3,
+    "description": "Distributing incoming network traffic across multiple backend servers."
+  },
+  {
+    "skill_id": 80,
+    "name": "Git",
+    "category": "Software Engineering",
+    "subcategory": "Version Control",
+    "difficulty": 1,
+    "description": "Distributed version-control system for tracking changes in source code."
+  },
+  {
+    "skill_id": 81,
+    "name": "Agile/Scrum",
+    "category": "Software Engineering",
+    "subcategory": "Methodology",
+    "difficulty": 2,
+    "description": "Iterative software development framework using sprints and ceremonies."
+  },
+  {
+    "skill_id": 82,
+    "name": "System Design",
+    "category": "Software Engineering",
+    "subcategory": "Architecture",
+    "difficulty": 4,
+    "description": "Designing scalable, reliable, maintainable software systems."
+  },
+  {
+    "skill_id": 83,
+    "name": "Object-Oriented Programming",
+    "category": "Software Engineering",
+    "subcategory": "Paradigm",
+    "difficulty": 2,
+    "description": "Programming paradigm organising code around objects and classes."
+  },
+  {
+    "skill_id": 84,
+    "name": "Functional Programming",
+    "category": "Software Engineering",
+    "subcategory": "Paradigm",
+    "difficulty": 3,
+    "description": "Programming paradigm treating computation as evaluation of mathematical functions."
+  },
+  {
+    "skill_id": 85,
+    "name": "Unit Testing",
+    "category": "Software Engineering",
+    "subcategory": "Quality Assurance",
+    "difficulty": 2,
+    "description": "Automated testing of individual code units in isolation."
+  },
+  {
+    "skill_id": 86,
+    "name": "Integration Testing",
+    "category": "Software Engineering",
+    "subcategory": "Quality Assurance",
+    "difficulty": 3,
+    "description": "Testing interactions between combined components or services."
+  },
+  {
+    "skill_id": 87,
+    "name": "Code Review",
+    "category": "Software Engineering",
+    "subcategory": "Collaboration",
+    "difficulty": 2,
+    "description": "Systematic peer examination of source code changes before merging."
+  },
+  {
+    "skill_id": 88,
+    "name": "Debugging",
+    "category": "Software Engineering",
+    "subcategory": "Methodology",
+    "difficulty": 2,
+    "description": "Identifying and fixing errors and unexpected behaviour in software."
+  },
+  {
+    "skill_id": 89,
+    "name": "Design Patterns",
+    "category": "Software Engineering",
+    "subcategory": "Architecture",
+    "difficulty": 3,
+    "description": "Reusable solutions to commonly recurring software design problems (GoF patterns)."
+  },
+  {
+    "skill_id": 90,
+    "name": "Algorithms & Data Structures",
+    "category": "Software Engineering",
+    "subcategory": "CS Fundamentals",
+    "difficulty": 3,
+    "description": "Core CS: sorting, searching, trees, graphs, complexity analysis."
+  },
+  {
+    "skill_id": 91,
+    "name": "Database Design",
+    "category": "Software Engineering",
+    "subcategory": "Architecture",
+    "difficulty": 3,
+    "description": "Modelling data entities, relationships, normalisation, and indexing."
+  },
+  {
+    "skill_id": 92,
+    "name": "Cybersecurity",
+    "category": "Security",
+    "subcategory": "Core Concepts",
+    "difficulty": 3,
+    "description": "Practices for protecting systems, networks, and programs from attacks."
+  },
+  {
+    "skill_id": 93,
+    "name": "OAuth/JWT",
+    "category": "Security",
+    "subcategory": "Authentication Protocols",
+    "difficulty": 3,
+    "description": "OAuth 2.0 authorisation framework and JSON Web Tokens for stateless auth."
+  },
+  {
+    "skill_id": 94,
+    "name": "HTTPS/TLS",
+    "category": "Security",
+    "subcategory": "Transport Security",
+    "difficulty": 2,
+    "description": "Encrypting data in transit with TLS certificates and HTTPS."
+  },
+  {
+    "skill_id": 95,
+    "name": "Penetration Testing",
+    "category": "Security",
+    "subcategory": "Offensive Security",
+    "difficulty": 4,
+    "description": "Authorised simulated attacks to identify security vulnerabilities."
+  },
+  {
+    "skill_id": 96,
+    "name": "OWASP",
+    "category": "Security",
+    "subcategory": "Web Security",
+    "difficulty": 3,
+    "description": "OWASP Top-10 web application security risks and mitigation strategies."
+  },
+  {
+    "skill_id": 97,
+    "name": "iOS Development",
+    "category": "Mobile Development",
+    "subcategory": "Native",
+    "difficulty": 4,
+    "description": "Building native iPhone/iPad applications using Swift/Xcode."
+  },
+  {
+    "skill_id": 98,
+    "name": "Android Development",
+    "category": "Mobile Development",
+    "subcategory": "Native",
+    "difficulty": 4,
+    "description": "Building native Android apps using Kotlin/Java with the Android SDK."
+  },
+  {
+    "skill_id": 99,
+    "name": "React Native",
+    "category": "Mobile Development",
+    "subcategory": "Cross-platform",
+    "difficulty": 3,
+    "description": "Building cross-platform mobile apps using React and JavaScript."
+  },
+  {
+    "skill_id": 100,
+    "name": "Flutter",
+    "category": "Mobile Development",
+    "subcategory": "Cross-platform",
+    "difficulty": 3,
+    "description": "Google's UI toolkit for natively compiled apps from a single Dart codebase."
+  },
+  {
+    "skill_id": 101,
+    "name": "Mobile UI Design",
+    "category": "Mobile Development",
+    "subcategory": "UX",
+    "difficulty": 2,
+    "description": "Designing touch-friendly, accessible interfaces for mobile form factors."
+  }
+]
