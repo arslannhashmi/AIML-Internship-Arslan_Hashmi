@@ -1,0 +1,814 @@
+[
+  {
+    "career_id": 1,
+    "skill_id": 1,
+    "importance": 5,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 1,
+    "skill_id": 21,
+    "importance": 5,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 1,
+    "skill_id": 27,
+    "importance": 5,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 1,
+    "skill_id": 14,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 1,
+    "skill_id": 15,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 1,
+    "skill_id": 33,
+    "importance": 4,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 1,
+    "skill_id": 30,
+    "importance": 3,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 1,
+    "skill_id": 25,
+    "importance": 4,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 2,
+    "skill_id": 1,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 2,
+    "skill_id": 21,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 2,
+    "skill_id": 22,
+    "importance": 5,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 2,
+    "skill_id": 17,
+    "importance": 4,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 2,
+    "skill_id": 26,
+    "importance": 5,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 2,
+    "skill_id": 65,
+    "importance": 4,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 2,
+    "skill_id": 82,
+    "importance": 4,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 2,
+    "skill_id": 90,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 3,
+    "skill_id": 1,
+    "importance": 5,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 3,
+    "skill_id": 33,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 3,
+    "skill_id": 37,
+    "importance": 5,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 3,
+    "skill_id": 38,
+    "importance": 4,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 3,
+    "skill_id": 39,
+    "importance": 4,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 3,
+    "skill_id": 41,
+    "importance": 5,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 3,
+    "skill_id": 42,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 3,
+    "skill_id": 65,
+    "importance": 3,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 4,
+    "skill_id": 43,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 4,
+    "skill_id": 44,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 4,
+    "skill_id": 4,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 4,
+    "skill_id": 45,
+    "importance": 5,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 4,
+    "skill_id": 5,
+    "importance": 4,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 4,
+    "skill_id": 49,
+    "importance": 3,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 4,
+    "skill_id": 80,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 4,
+    "skill_id": 52,
+    "importance": 3,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 3
+  },
+  {
+    "career_id": 5,
+    "skill_id": 1,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 5,
+    "skill_id": 33,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 5,
+    "skill_id": 34,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 5,
+    "skill_id": 60,
+    "importance": 5,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 5,
+    "skill_id": 59,
+    "importance": 4,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 5,
+    "skill_id": 65,
+    "importance": 4,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 5,
+    "skill_id": 62,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 5,
+    "skill_id": 80,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 6,
+    "skill_id": 4,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 6,
+    "skill_id": 5,
+    "importance": 4,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 6,
+    "skill_id": 45,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 6,
+    "skill_id": 55,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 6,
+    "skill_id": 33,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 6,
+    "skill_id": 60,
+    "importance": 5,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 6,
+    "skill_id": 80,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 6,
+    "skill_id": 65,
+    "importance": 3,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 3
+  },
+  {
+    "career_id": 7,
+    "skill_id": 65,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 7,
+    "skill_id": 66,
+    "importance": 5,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 7,
+    "skill_id": 71,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 7,
+    "skill_id": 74,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 7,
+    "skill_id": 67,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 7,
+    "skill_id": 68,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 7,
+    "skill_id": 80,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 7,
+    "skill_id": 11,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 8,
+    "skill_id": 68,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 8,
+    "skill_id": 67,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 8,
+    "skill_id": 66,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 8,
+    "skill_id": 65,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 8,
+    "skill_id": 82,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 8,
+    "skill_id": 74,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 8,
+    "skill_id": 71,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 8,
+    "skill_id": 79,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 9,
+    "skill_id": 90,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 9,
+    "skill_id": 82,
+    "importance": 5,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 9,
+    "skill_id": 83,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 9,
+    "skill_id": 80,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 9,
+    "skill_id": 85,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 9,
+    "skill_id": 89,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 9,
+    "skill_id": 1,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 9,
+    "skill_id": 33,
+    "importance": 3,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 3
+  },
+  {
+    "career_id": 10,
+    "skill_id": 1,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 10,
+    "skill_id": 23,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 10,
+    "skill_id": 22,
+    "importance": 5,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 10,
+    "skill_id": 17,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 10,
+    "skill_id": 21,
+    "importance": 5,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 10,
+    "skill_id": 26,
+    "importance": 4,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 10,
+    "skill_id": 27,
+    "importance": 3,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 3
+  },
+  {
+    "career_id": 11,
+    "skill_id": 1,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 11,
+    "skill_id": 24,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 11,
+    "skill_id": 22,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 11,
+    "skill_id": 17,
+    "importance": 5,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 11,
+    "skill_id": 29,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 11,
+    "skill_id": 26,
+    "importance": 4,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 11,
+    "skill_id": 13,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 12,
+    "skill_id": 33,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 12,
+    "skill_id": 30,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 12,
+    "skill_id": 27,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 12,
+    "skill_id": 34,
+    "importance": 3,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 3
+  },
+  {
+    "career_id": 12,
+    "skill_id": 14,
+    "importance": 3,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 3
+  },
+  {
+    "career_id": 12,
+    "skill_id": 42,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 12,
+    "skill_id": 1,
+    "importance": 3,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 3
+  },
+  {
+    "career_id": 13,
+    "skill_id": 74,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 13,
+    "skill_id": 65,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 13,
+    "skill_id": 66,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 13,
+    "skill_id": 76,
+    "importance": 5,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 13,
+    "skill_id": 78,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 13,
+    "skill_id": 71,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 13,
+    "skill_id": 11,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 13,
+    "skill_id": 1,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 14,
+    "skill_id": 99,
+    "importance": 5,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 14,
+    "skill_id": 4,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 14,
+    "skill_id": 5,
+    "importance": 4,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 14,
+    "skill_id": 101,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 14,
+    "skill_id": 80,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 14,
+    "skill_id": 60,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 14,
+    "skill_id": 52,
+    "importance": 3,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 3
+  },
+  {
+    "career_id": 15,
+    "skill_id": 92,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 15,
+    "skill_id": 96,
+    "importance": 5,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 15,
+    "skill_id": 94,
+    "importance": 5,
+    "minimum_proficiency": 4,
+    "preferred_proficiency": 5
+  },
+  {
+    "career_id": 15,
+    "skill_id": 93,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 15,
+    "skill_id": 95,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 15,
+    "skill_id": 74,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 15,
+    "skill_id": 1,
+    "importance": 4,
+    "minimum_proficiency": 3,
+    "preferred_proficiency": 4
+  },
+  {
+    "career_id": 15,
+    "skill_id": 60,
+    "importance": 3,
+    "minimum_proficiency": 2,
+    "preferred_proficiency": 3
+  }
+]
