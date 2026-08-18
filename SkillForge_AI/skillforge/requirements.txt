@@ -1,0 +1,36 @@
+# SkillForge AI — Python dependencies
+# Core packages grow per phase; add here as each phase is built.
+
+# Phase 4 — PDF parsing
+pymupdf>=1.24.0
+pdfplumber>=0.10.0
+
+# Phase 5 — dictionary matcher (stdlib only; listed for explicitness)
+# sqlite3 is stdlib
+
+# Phase 6 — NLP extraction (install before running Phase 6)
+spacy>=3.7.0
+torch>=2.0.0
+transformers>=4.40.0
+
+# Phase 7 — normalization
+rapidfuzz>=3.6.0
+# Semantic fallback uses Transformers directly with the
+# sentence-transformers/all-MiniLM-L6-v2 checkpoint.
+
+# Phase 8 — skill graph
+networkx>=3.3
+
+# Phase 9 — recommendation (numpy/pandas used from Phase 5 onward)
+# numpy>=1.26.0
+# pandas>=2.2.0
+# scikit-learn>=1.4.0
+
+# Phase 14 — backend API
+fastapi>=0.141.1
+uvicorn>=0.52.3
+python-multipart>=0.0.32
+pydantic>=2.7.0
+
+# Dev helpers
+# reportlab>=4.0.0   # PDF generation for synthetic resumes
