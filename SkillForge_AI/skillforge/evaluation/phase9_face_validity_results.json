@@ -1,0 +1,31 @@
+{
+  "evaluation_type": "face-validity testing (not accuracy evaluation)",
+  "results": [
+    {
+      "profile": "data-science profile",
+      "expected_career_id": 1,
+      "top_career_id": 1,
+      "top_career_name": "Data Scientist",
+      "top_score": 1.0,
+      "passed": true
+    },
+    {
+      "profile": "frontend profile",
+      "expected_career_id": 4,
+      "top_career_id": 4,
+      "top_career_name": "Frontend Developer",
+      "top_score": 0.9999999999999998,
+      "passed": true
+    },
+    {
+      "profile": "devops profile",
+      "expected_career_id": 7,
+      "top_career_id": 7,
+      "top_career_name": "DevOps Engineer",
+      "top_score": 1.0,
+      "passed": true
+    }
+  ],
+  "passed": 3,
+  "total": 3
+}
