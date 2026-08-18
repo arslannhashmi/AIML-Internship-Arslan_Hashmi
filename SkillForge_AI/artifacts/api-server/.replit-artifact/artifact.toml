@@ -1,0 +1,27 @@
+kind = "api"
+previewPath = "/"
+title = "SkillForge AI API"
+version = "1.0.0"
+id = "3B4_FFSkEVBkAeYMFRJ2e"
+
+[[services]]
+localPort = 8080
+name = "SkillForge AI API"
+paths = ["/"]
+
+[services.development]
+run = "sh run-skillforge.sh"
+
+[services.production]
+
+[services.production.build]
+args = ["sh", "artifacts/api-server/build-skillforge.sh"]
+
+[services.production.run]
+args = ["sh", "artifacts/api-server/run-skillforge.sh"]
+
+[services.production.run.env]
+PORT = "8080"
+
+[services.production.health.startup]
+path = "/health"
