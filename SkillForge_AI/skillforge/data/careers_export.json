@@ -1,0 +1,77 @@
+[
+  {
+    "career_id": 1,
+    "name": "Data Scientist",
+    "description": "Analyses complex data to extract insights and build predictive models."
+  },
+  {
+    "career_id": 2,
+    "name": "Machine Learning Engineer",
+    "description": "Designs, trains, and deploys ML models into production systems at scale."
+  },
+  {
+    "career_id": 3,
+    "name": "Data Engineer",
+    "description": "Builds and maintains data pipelines, warehouses, and streaming infrastructure."
+  },
+  {
+    "career_id": 4,
+    "name": "Frontend Developer",
+    "description": "Builds user interfaces and client-side logic for web applications."
+  },
+  {
+    "career_id": 5,
+    "name": "Backend Developer",
+    "description": "Designs and implements server-side APIs, databases, and business logic."
+  },
+  {
+    "career_id": 6,
+    "name": "Full Stack Developer",
+    "description": "Handles both frontend and backend concerns across the full web stack."
+  },
+  {
+    "career_id": 7,
+    "name": "DevOps Engineer",
+    "description": "Bridges development and operations: CI/CD, containerisation, and infrastructure."
+  },
+  {
+    "career_id": 8,
+    "name": "Cloud Architect",
+    "description": "Designs scalable, cost-efficient cloud infrastructure across one or more providers."
+  },
+  {
+    "career_id": 9,
+    "name": "Software Engineer",
+    "description": "Designs, writes, tests, and maintains general-purpose software systems."
+  },
+  {
+    "career_id": 10,
+    "name": "NLP Engineer",
+    "description": "Specialises in language models, text processing, and conversational AI."
+  },
+  {
+    "career_id": 11,
+    "name": "Computer Vision Engineer",
+    "description": "Builds systems that interpret images and video using deep learning."
+  },
+  {
+    "career_id": 12,
+    "name": "Business Intelligence Analyst",
+    "description": "Turns data into actionable reports, dashboards, and strategic insights."
+  },
+  {
+    "career_id": 13,
+    "name": "Site Reliability Engineer",
+    "description": "Ensures production systems are reliable, scalable, and observable."
+  },
+  {
+    "career_id": 14,
+    "name": "Mobile Developer",
+    "description": "Builds cross-platform or native mobile applications for iOS/Android."
+  },
+  {
+    "career_id": 15,
+    "name": "Security Engineer",
+    "description": "Designs and implements security controls, reviews code, and runs assessments."
+  }
+]
